@@ -1,0 +1,26 @@
+[{
+  "nguphap": "이에요/예요",
+  "loai": "명사 + 이에요/예요",
+  "ynghia": "Dùng trong tình huống thân mật, không cần lịch sự như 입니다. 입니다 được dùng trong các tình huống trang trọng như họp hành hoặc thuyết trình.",
+  "vidu": [
+    {"cau": "프엉 씨는 베트남 사람이에요.", "nghia": "Phương là người Việt Nam."},
+    {"cau": "이건 계산기예요.", "nghia": "Cái này là máy tính."},
+    {"cau": "그건 안경이에요.", "nghia": "Cái kia là kính."},
+    {"cau": "가: 어느 나라 사람이에요?", "nghia": "Bạn là người nước nào?"},
+    {"cau": "나: 베트남 사람이에요.", "nghia": "Tôi là người Việt Nam."}
+  ],
+  "luat": "Nếu danh từ có 받침 thì dùng 이에요, không có 받침 thì dùng 예요. Khi hỏi thuộc tính của chủ ngữ, dùng 이에요/예요? với ngữ điệu lên cao ở cuối câu."
+},
+{
+  "nguphap": "이/가 아니에요",
+  "loai": "명사 + 이/가 아니에요",
+  "ynghia": "Là dạng phủ định của 이에요. Trong tình huống trang trọng, dùng 이/가 아닙니다.",
+  "vidu": [
+    {"cau": "이건 화장품이 아닙니다.", "nghia": "Cái này không phải là mỹ phẩm."},
+    {"cau": "저는 인도 사람이 아니에요.", "nghia": "Tôi không phải là người Ấn Độ."},
+    {"cau": "그건 휴지가 아니에요.", "nghia": "Cái đó không phải là giấy vệ sinh."},
+    {"cau": "가: 이건 유수프 씨 우산이에요?", "nghia": "Đây có phải là ô của Yusuf không?"},
+    {"cau": "나: 아니요, 유수프 씨 우산이 아니에요.", "nghia": "Không, đây không phải là ô của Yusuf."}
+  ],
+  "luat": "Nếu danh từ có 받침 thì dùng 이 아니에요, không có 받침 thì dùng 가 아니에요. Dùng để phủ định thuộc tính của chủ ngữ."
+}]
