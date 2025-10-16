@@ -1,0 +1,104 @@
+
+[
+{
+  "audio": "hoi-thoai-57-1.mp3",
+  "hinhanh": "hoi-thoai-57-1.jpg",
+  "hoithoai": [
+    {
+      "speaker": "유수프",
+      "korean": "안녕하세요? 저, 한국에서 일하고 싶어서 왔는데요.",
+      "vietnamese": "Xin chào, tôi đến đây vì muốn làm việc tại Hàn Quốc."
+    },
+    {
+      "speaker": "직원",
+      "korean": "그래요? 이쪽으로 앉으세요. 무슨 업종에서 일하고 싶으세요? 제조업, 농업, 어업, 건설업 여러 업종이 있어요.",
+      "vietnamese": "Vậy à? Mời anh ngồi bên này. Anh muốn làm việc trong ngành nào? Có nhiều ngành như sản xuất, nông nghiệp, ngư nghiệp và xây dựng."
+    },
+    {
+      "speaker": "유수프",
+      "korean": "어, 건설업이 있는 줄 몰랐어요. 건설업을 신청해도 돼요?",
+      "vietnamese": "Ồ, tôi không biết là có ngành xây dựng. Tôi có thể đăng ký ngành đó không?"
+    },
+    {
+      "speaker": "직원",
+      "korean": "그럼요. 혹시 비슷한 일을 해 본 적이 있어요?",
+      "vietnamese": "Tất nhiên rồi. Anh đã từng làm công việc tương tự chưa?"
+    },
+    {
+      "speaker": "유수프",
+      "korean": "네, 예전에 건물을 짓는 일을 해 본 적이 있어서 잘할 수 있을 것 같아요.",
+      "vietnamese": "Vâng, trước đây tôi đã từng làm công việc xây dựng tòa nhà nên tôi nghĩ mình có thể làm tốt."
+    },
+    {
+      "speaker": "직원",
+      "korean": "잘됐네요. 같은 업종에서 일해 본 경험이 있으면 가산점을 받을 수 있어요.",
+      "vietnamese": "Tốt quá. Nếu anh có kinh nghiệm làm việc trong cùng ngành thì sẽ được cộng điểm ưu tiên."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "유수프 씨는 왜 직원을 찾아왔어요?",
+      "vietnamese_question": "Tại sao Yusuf đến gặp nhân viên?",
+      "korean_answer": "한국에서 일하고 싶어서 왔어요.",
+      "vietnamese_answer": "Vì anh ấy muốn làm việc tại Hàn Quốc."
+    },
+    {
+      "korean_question": "유수프 씨는 무슨 일을 해 본 적이 있어요?",
+      "vietnamese_question": "Yusuf đã từng làm công việc gì?",
+      "korean_answer": "건물을 짓는 일을 해 본 적이 있어요.",
+      "vietnamese_answer": "Anh ấy đã từng làm công việc xây dựng tòa nhà."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-57-2.mp3",
+  "hinhanh": "hoi-thoai-57-2.jpg",
+  "hoithoai":  [
+    {
+      "speaker": "칼로",
+      "korean": "선생님, 저 시험에 합격해서 한국에 일하러 가게 되었어요.",
+      "vietnamese": "Thầy ơi, em đã đậu kỳ thi và sắp sang Hàn Quốc làm việc rồi ạ."
+    },
+    {
+      "speaker": "선생님",
+      "korean": "정말 축하해요. 그런데 어디에서 일하게 되었어요?",
+      "vietnamese": "Chúc mừng em nhé! Thế em sẽ làm việc ở đâu vậy?"
+    },
+    {
+      "speaker": "칼로",
+      "korean": "어제 부산에 있는 조선소하고 근로계약을 했어요.",
+      "vietnamese": "Hôm qua em đã ký hợp đồng lao động với một xưởng đóng tàu ở Busan."
+    },
+    {
+      "speaker": "선생님",
+      "korean": "한국에 가기 전에 비자도 신청하고 교육도 받아야 해서 정말 바쁘겠네요.",
+      "vietnamese": "Trước khi sang Hàn Quốc em phải xin visa và tham gia khóa đào tạo nữa, chắc bận lắm nhỉ."
+    },
+    {
+      "speaker": "칼로",
+      "korean": "네, 한국 생활이 너무 기대돼요. 한국에서 살면 한국어도 더 잘하게 되겠죠?",
+      "vietnamese": "Vâng, em rất mong chờ cuộc sống ở Hàn Quốc. Sống ở đó chắc tiếng Hàn của em cũng sẽ giỏi hơn, đúng không ạ?"
+    },
+    {
+      "speaker": "선생님",
+      "korean": "그럼요. 지금보다 훨씬 잘하게 될 거예요.",
+      "vietnamese": "Tất nhiên rồi, em sẽ giỏi hơn bây giờ nhiều đấy."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "칼로 씨는 어디에서 일하게 되었어요?",
+      "vietnamese_question": "Carlo sẽ làm việc ở đâu?",
+      "korean_answer": "부산에 있는 조선소에서 일하게 되었어요.",
+      "vietnamese_answer": "Anh ấy sẽ làm việc ở một xưởng đóng tàu tại Busan."
+    },
+    {
+      "korean_question": "칼로 씨는 한국 생활에 대해 어떻게 생각해요?",
+      "vietnamese_question": "Carlo nghĩ thế nào về cuộc sống ở Hàn Quốc?",
+      "korean_answer": "한국 생활을 기대하고 있어요.",
+      "vietnamese_answer": "Anh ấy rất mong chờ cuộc sống ở Hàn Quốc."
+    }
+  ]
+ }
+ ]
+

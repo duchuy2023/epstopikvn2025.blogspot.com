@@ -1,0 +1,104 @@
+
+[
+{
+  "audio": "hoi-thoai-46-1.mp3",
+  "hinhanh": "hoi-thoai-46-1.jpg",
+  "hoithoai": [
+    {
+      "speaker": "사장님",
+      "korean": "다라 씨, 사료를 줘 본 적이 있어요?",
+      "vietnamese": "Dara, em đã từng cho động vật ăn chưa?"
+    },
+    {
+      "speaker": "다 라",
+      "korean": "아니요, 사료를 줘 본 적이 없습니다.",
+      "vietnamese": "Chưa ạ, em chưa từng cho ăn bao giờ."
+    },
+    {
+      "speaker": "사장님",
+      "korean": "그럼 오늘 한번 해 보세요. 사료를 줄 때는 항상 먼저 저울로 무게를 재서 양을 맞추세요. 그리고 바가지에 담아서 주세요.",
+      "vietnamese": "Vậy hôm nay thử làm nhé. Khi cho ăn, luôn cân trước để đo đúng lượng thức ăn, rồi múc vào gáo để cho chúng ăn."
+    },
+    {
+      "speaker": "다 라",
+      "korean": "네, 해 보겠습니다. 그런데 배합 사료랑 조사료를 같이 주면 될까요?",
+      "vietnamese": "Vâng, em sẽ thử. Nhưng có thể cho ăn cùng lúc thức ăn hỗn hợp và thức ăn thô được không ạ?"
+    },
+    {
+      "speaker": "사장님",
+      "korean": "조사료를 먼저 주고 배합 사료는 나중에 주세요. 두 개를 같이 주면 배합 사료만 골라 먹거든요.",
+      "vietnamese": "Hãy cho ăn thức ăn thô trước, rồi sau đó mới cho thức ăn hỗn hợp. Nếu cho cùng lúc, chúng sẽ chỉ ăn thức ăn hỗn hợp thôi."
+    },
+    {
+      "speaker": "다 라",
+      "korean": "네. 그럼 조사료를 먼저 준 후에 소가 다 먹으면 배합 사료를 주겠습니다.",
+      "vietnamese": "Vâng. Vậy em sẽ cho ăn thức ăn thô trước, khi bò ăn xong sẽ cho tiếp thức ăn hỗn hợp."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "다라 씨는 사료를 줘 봤어요?",
+      "vietnamese_question": "Dara đã từng cho động vật ăn chưa?",
+      "korean_answer": "아니요, 사료를 줘 본 적이 없습니다.",
+      "vietnamese_answer": "Chưa, cô ấy chưa từng cho ăn bao giờ."
+    },
+    {
+      "korean_question": "왜 조사료와 배합 사료를 같이 주면 안 돼요?",
+      "vietnamese_question": "Tại sao không nên cho ăn cùng lúc thức ăn thô và thức ăn hỗn hợp?",
+      "korean_answer": "두 개를 같이 주면 배합 사료만 골라 먹어요.",
+      "vietnamese_answer": "Vì nếu cho cùng lúc, chúng sẽ chỉ chọn ăn thức ăn hỗn hợp."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-46-2.mp3",
+  "hinhanh": "hoi-thoai-46-2.jpg",
+  "hoithoai": [
+    {
+      "speaker": "사장님",
+      "korean": "프엉 씨, 오후에는 축사 청소를 해야 돼요.",
+      "vietnamese": "Phuong, chiều nay chúng ta phải dọn dẹp chuồng bò."
+    },
+    {
+      "speaker": "프엉",
+      "korean": "그럼 지금 소들을 다른 우방으로 이동시킬까요?",
+      "vietnamese": "Vậy bây giờ có nên chuyển bò sang chuồng khác không?"
+    },
+    {
+      "speaker": "사장님",
+      "korean": "혼자 하기 힘드니까 다라 씨랑 같이 하세요. 나는 트랙터로 톱밥 좀 가져올게요. 참, 소독도 해야 되는데…….",
+      "vietnamese": "Khó làm một mình nên hãy làm cùng Dara nhé. Tôi sẽ lái máy kéo đi lấy mùn cưa. À, còn phải khử trùng nữa…"
+    },
+    {
+      "speaker": "프엉",
+      "korean": "소독이요? 지난주에 소독을 했는데요.",
+      "vietnamese": "Khử trùng ạ? Tuần trước chúng ta đã khử trùng rồi mà."
+    },
+    {
+      "speaker": "사장님",
+      "korean": "일주일에 한 번씩 소독해야 소들이 병에 걸리지 않아요. 소 이동시키고 다라 씨한테 청소 도구 좀 가져오게 하고, 프엉 씨는 소독할 준비를 좀 해 주세요. 다라 씨는 소독을 해 본 적이 없거든요.",
+      "vietnamese": "Phải khử trùng mỗi tuần một lần để bò không bị bệnh. Hãy di chuyển bò, bảo Dara mang dụng cụ dọn dẹp, còn Phuong hãy chuẩn bị cho việc khử trùng nhé. Dara chưa từng làm việc khử trùng bao giờ."
+    },
+    {
+      "speaker": "프엉",
+      "korean": "네, 사장님. 알겠습니다.",
+      "vietnamese": "Vâng, thưa chủ. Tôi hiểu rồi ạ."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "누가 소들을 다른 우방으로 이동시켜요?",
+      "vietnamese_question": "Ai sẽ chuyển bò sang chuồng khác?",
+      "korean_answer": "프엉 씨와 다라 씨가 소들을 다른 우방으로 이동시켜요.",
+      "vietnamese_answer": "Phuong và Dara sẽ chuyển bò sang chuồng khác."
+    },
+    {
+      "korean_question": "사장님은 프엉 씨에게 무슨 일을 시켰어요?",
+      "vietnamese_question": "Chủ đã giao cho Phuong công việc gì?",
+      "korean_answer": "소독할 준비를 하라고 시켰어요.",
+      "vietnamese_answer": "Bảo Phuong chuẩn bị cho việc khử trùng."
+    }
+  ]
+ }
+ ]
+

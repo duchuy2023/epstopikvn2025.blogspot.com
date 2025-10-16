@@ -1,0 +1,99 @@
+
+[
+{
+  "audio": "hoi-thoai-58-1.mp3",
+  "hinhanh": "hoi-thoai-58-1.jpg",
+  "hoithoai": [
+    {
+      "speaker": "칼로",
+      "korean": "여보세요? 제가 어제 표준근로계약서를 받았는데 궁금한 게 있어요. ‘수습 기간’이 뭐예요?",
+      "vietnamese": "A lô? Hôm qua tôi nhận được hợp đồng lao động tiêu chuẩn, nhưng tôi có điều muốn hỏi. 'Thời gian thử việc' là gì vậy?"
+    },
+    {
+      "speaker": "직원",
+      "korean": "수습 기간은 일이 익숙해질 때까지 일을 배우는 기간이에요. 그 기간 동안에는 월급의 90%를 받게 돼요.",
+      "vietnamese": "Thời gian thử việc là giai đoạn bạn học việc cho đến khi quen với công việc. Trong thời gian đó, bạn sẽ nhận được 90% tiền lương."
+    },
+    {
+      "speaker": "칼로",
+      "korean": "그렇군요. 궁금한 게 하나 더 있는데요. 표준근로계약서에 있는 근로 시간에만 일을 하면 되는 거예요?",
+      "vietnamese": "Ra vậy. Tôi còn một điều nữa muốn hỏi. Tôi chỉ cần làm việc trong thời gian được ghi trong hợp đồng lao động thôi đúng không?"
+    },
+    {
+      "speaker": "직원",
+      "korean": "네. 그런데 일이 많으면 기본 근로 시간뿐만 아니라 야간이나 휴일에도 일할 수 있어요.",
+      "vietnamese": "Đúng vậy. Tuy nhiên, nếu công việc nhiều, bạn có thể phải làm thêm vào ban đêm hoặc ngày nghỉ."
+    },
+    {
+      "speaker": "칼로",
+      "korean": "아, 그래요? 야간 근무나 휴일 근무가 많아요?",
+      "vietnamese": "À, vậy sao? Có nhiều ca làm đêm hay làm vào ngày nghỉ không ạ?"
+    },
+    {
+      "speaker": "직원",
+      "korean": "그건 사업장마다 달라요. 야간이나 휴일에 일하면 추가로 수당을 받을 수 있어요.",
+      "vietnamese": "Điều đó tùy từng nơi làm việc. Nếu bạn làm vào ban đêm hoặc ngày nghỉ thì sẽ được nhận thêm tiền phụ cấp."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "수습 기간이 뭐예요?",
+      "vietnamese_question": "Thời gian thử việc là gì?",
+      "korean_answer": "일이 익숙해질 때까지 배우는 기간이에요.",
+      "vietnamese_answer": "Là khoảng thời gian để học việc cho đến khi quen với công việc."
+    },
+    {
+      "korean_question": "표준근로계약서에 있는 근로 시간에만 일을 해요?",
+      "vietnamese_question": "Có chỉ làm việc trong thời gian ghi trong hợp đồng lao động không?",
+      "korean_answer": "일이 많으면 야간이나 휴일에도 일할 수 있어요.",
+      "vietnamese_answer": "Nếu công việc nhiều thì có thể phải làm thêm vào ban đêm hoặc ngày nghỉ."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-58-2.mp3",
+  "hinhanh": "hoi-thoai-58-2.jpg",
+  "hoithoai":  [
+    {
+      "speaker": "닛차난",
+      "korean": "마두 씨, 통장 확인해 봤어요? 저는 이번 달 월급이 조금 많이 들어온 것 같아요.",
+      "vietnamese": "Anh Madhu, anh đã kiểm tra tài khoản ngân hàng chưa? Tôi thấy tháng này lương mình nhận được có vẻ nhiều hơn một chút."
+    },
+    {
+      "speaker": "마두",
+      "korean": "표준근로계약서에서 본 금액과 달랐지요? 곧 설날이라서 상여금이 나와서 그래요.",
+      "vietnamese": "Khác với số tiền trong hợp đồng lao động tiêu chuẩn phải không? Vì sắp đến Tết Âm lịch nên có thưởng thêm đó."
+    },
+    {
+      "speaker": "닛차난",
+      "korean": "아, 그렇군요. 전 갑자기 월급이 많이 들어와서 놀랐어요.",
+      "vietnamese": "À, ra vậy. Tôi bất ngờ vì lương tháng này nhận được nhiều hơn hẳn."
+    },
+    {
+      "speaker": "마두",
+      "korean": "그리고 다음 달에도 월급이 많을 거예요. 보통 2월에 연말정산 환급금이 들어오거든요.",
+      "vietnamese": "Tháng sau lương cũng sẽ cao hơn đấy. Thường thì vào tháng 2 sẽ nhận được tiền hoàn thuế cuối năm."
+    },
+    {
+      "speaker": "닛차난",
+      "korean": "그래요? 그럼 고향에 돈을 더 많이 보낼 수 있겠네요. 항상 월급이 많이 들어오면 좋겠어요.",
+      "vietnamese": "Thật vậy sao? Vậy thì tôi có thể gửi nhiều tiền về quê hơn rồi. Ước gì lúc nào lương cũng nhiều như thế này."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "이번 달에 왜 닛차난 씨의 월급이 많이 들어왔어요?",
+      "vietnamese_question": "Tại sao tháng này lương của Nichanan lại cao hơn?",
+      "korean_answer": "설날을 앞두고 상여금이 나와서 그래요.",
+      "vietnamese_answer": "Vì có tiền thưởng do sắp đến Tết Âm lịch."
+    },
+    {
+      "korean_question": "연말정산 환급금은 언제 받을 수 있어요?",
+      "vietnamese_question": "Khi nào có thể nhận được tiền hoàn thuế cuối năm?",
+      "korean_answer": "보통 2월에 받을 수 있어요.",
+      "vietnamese_answer": "Thường có thể nhận vào tháng 2."
+    }
+  ]
+ }
+ ]
+

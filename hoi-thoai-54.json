@@ -1,0 +1,79 @@
+
+[
+{
+  "audio": "hoi-thoai-54-1.mp3",
+  "hinhanh": "hoi-thoai-54-1.jpg",
+  "hoithoai":[
+    {
+      "speaker": "반장님",
+      "korean": "마두 씨, 오늘은 화학물질을 혼합하는 작업을 할 거예요. 개인 보호구는 다 착용했지요?",
+      "vietnamese": "Anh Madhu, hôm nay anh sẽ làm công việc trộn hoá chất. Anh đã mặc đầy đủ đồ bảo hộ cá nhân rồi chứ?"
+    },
+    {
+      "speaker": "마두",
+      "korean": "네, 모두 착용했습니다.",
+      "vietnamese": "Vâng, tôi đã mặc đầy đủ rồi ạ."
+    },
+    {
+      "speaker": "반장님",
+      "korean": "잘했어요. 작업을 시작하기 전에 먼저 환기 장치를 켜도록 하세요.",
+      "vietnamese": "Tốt lắm. Trước khi bắt đầu công việc, hãy bật thiết bị thông gió trước nhé."
+    },
+    {
+      "speaker": "마두",
+      "korean": "네, 알겠습니다.",
+      "vietnamese": "Vâng, tôi hiểu rồi ạ."
+    },
+    {
+      "speaker": "반장님",
+      "korean": "여기는 화학물질이 많으니까 절대 담배를 피우면 안 돼요. 음식도 먹으면 안 되고요.",
+      "vietnamese": "Ở đây có nhiều hoá chất, nên tuyệt đối không được hút thuốc. Cũng không được ăn uống gì cả."
+    },
+    {
+      "speaker": "마두",
+      "korean": "네, 주의하도록 하겠습니다.",
+      "vietnamese": "Vâng, tôi sẽ chú ý ạ."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "마두 씨는 오늘 무슨 작업을 해요?",
+      "vietnamese_question": "Hôm nay anh Madhu làm công việc gì?",
+      "korean_answer": "화학물질을 혼합하는 작업을 해요.",
+      "vietnamese_answer": "Anh ấy làm công việc trộn hoá chất."
+    },
+    {
+      "korean_question": "작업장에서 가장 먼저 해야 할 일은 뭐예요?",
+      "vietnamese_question": "Trong nơi làm việc, việc đầu tiên cần làm là gì?",
+      "korean_answer": "작업을 시작하기 전에 환기 장치를 켜야 해요.",
+      "vietnamese_answer": "Trước khi bắt đầu làm việc, phải bật thiết bị thông gió."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-54-2.mp3",
+  "hinhanh": "hoi-thoai-54-2.jpg",
+  "hoithoai":   [
+    {
+      "speaker": "김진수",
+      "korean": "오늘은 사고 예방을 위한 안전보건교육을 실시하겠습니다.작업 중 사고가 나는 것을 막기 위해서는 반드시 작업안전보건 수칙을 준수해야 합니다.먼저 손이나 발이 끼일 수 있는 곳에는 덮개를 설치해야 합니다.그리고 동작 중인 기계에는 가까이 접근하지 않아야 합니다.떨어질 위험이 있는 장소에는 안전 난간을 설치해야 합니다.그리고 작업자는 반드시 안전대를 착용해야 합니다.우리 모두 작업안전보건 수칙을 준수하여 사고를 예방하도록 합시다.",
+      "vietnamese": "Hôm nay chúng ta sẽ tiến hành buổi huấn luyện an toàn lao động để phòng ngừa tai nạn.Để ngăn ngừa tai nạn trong khi làm việc, nhất định phải tuân thủ các quy tắc an toàn và sức khỏe lao động.Trước tiên, ở những nơi có thể kẹt tay hoặc chân thì phải lắp nắp che an toàn.Và không được đến gần các máy móc đang hoạt động.Ở những nơi có nguy cơ rơi ngã, phải lắp đặt lan can an toàn.Ngoài ra, người lao động phải đeo dây an toàn.Chúng ta hãy cùng tuân thủ quy tắc an toàn lao động để phòng tránh tai nạn."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "끼임 사고가 발생할 수 있는 곳에는 무엇을 설치해야 돼요?",
+      "vietnamese_question": "Ở những nơi có thể xảy ra tai nạn kẹt tay hoặc chân thì phải lắp gì?",
+      "korean_answer": "손이나 발이 끼일 수 있는 곳에는 덮개를 설치해야 돼요.",
+      "vietnamese_answer": "Phải lắp nắp che ở những nơi có thể kẹt tay hoặc chân."
+    },
+    {
+      "korean_question": "추락 위험이 있는 곳에서는 작업자가 무엇을 착용해야 돼요?",
+      "vietnamese_question": "Ở nơi có nguy cơ rơi ngã, người lao động phải mang gì?",
+      "korean_answer": "안전대를 착용해야 돼요.",
+      "vietnamese_answer": "Phải mang dây an toàn."
+    }
+  ]
+ }
+ ]
+

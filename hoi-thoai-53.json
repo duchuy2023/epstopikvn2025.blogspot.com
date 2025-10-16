@@ -1,0 +1,104 @@
+
+[
+{
+  "audio": "hoi-thoai-53-1.mp3",
+  "hinhanh": "hoi-thoai-53-1.jpg",
+  "hoithoai": [
+    {
+      "speaker": "칸",
+      "korean": "다린두 씨, 이 그림은 뭐예요?",
+      "vietnamese": "Anh Thalindu, bức hình này là gì vậy?"
+    },
+    {
+      "speaker": "다린두",
+      "korean": "이건 그냥 그림이 아니라 경고 표지예요.",
+      "vietnamese": "Đây không phải là hình bình thường đâu, mà là biển cảnh báo đấy."
+    },
+    {
+      "speaker": "칸",
+      "korean": "경고 표지요? 그게 뭐예요?",
+      "vietnamese": "Biển cảnh báo ạ? Nghĩa là gì vậy?"
+    },
+    {
+      "speaker": "다린두",
+      "korean": "위험할 수 있으니까 조심하라고 알려 주는 표지예요. 이 경고 표지는 독성 물질 경고 표지예요. 독성이 있는 물질이 있을 때는 이 경고 표지를 붙여요.",
+      "vietnamese": "Đó là biển báo cho biết cần phải cẩn thận vì có thể nguy hiểm. Biển này là biển cảnh báo chất độc hại. Khi có chất độc, người ta sẽ dán biển này lên."
+    },
+    {
+      "speaker": "칸",
+      "korean": "아, 위험한 물질이 있으니까 취급할 때 조심하라는 뜻이군요. 다린두 씨는 이런 걸 어떻게 알아요?",
+      "vietnamese": "À, nghĩa là phải cẩn thận khi xử lý các chất nguy hiểm đúng không? Anh biết những điều này bằng cách nào vậy?"
+    },
+    {
+      "speaker": "다린두",
+      "korean": "예전에 외국인 근로자 교육을 받으러 갔더니 책을 주더라고요. 그 책에서 봤어요.",
+      "vietnamese": "Trước đây tôi từng tham gia khóa đào tạo cho lao động nước ngoài, họ phát cho tôi một quyển sách. Tôi đã thấy trong đó."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "경고 표지를 왜 붙여요?",
+      "vietnamese_question": "Tại sao lại dán biển cảnh báo?",
+      "korean_answer": "위험할 수 있으니까 조심하라고 알려 주기 위해서예요.",
+      "vietnamese_answer": "Để nhắc mọi người cẩn thận vì có thể nguy hiểm."
+    },
+    {
+      "korean_question": "다린두 씨는 어떻게 경고 표지의 의미를 알아요?",
+      "vietnamese_question": "Anh Thalindu biết ý nghĩa của biển cảnh báo bằng cách nào?",
+      "korean_answer": "외국인 근로자 교육을 받을 때 받은 책에서 봤어요.",
+      "vietnamese_answer": "Anh ấy đã thấy trong quyển sách nhận được khi tham gia khóa đào tạo cho lao động nước ngoài."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-53-2.mp3",
+  "hinhanh": "hoi-thoai-53-2.jpg",
+  "hoithoai":  [
+    {
+      "speaker": "마두",
+      "korean": "투안 씨, 잠깐만요. 여기는 지게차가 다닐 수 없는 곳이에요.",
+      "vietnamese": "Anh Tuấn, khoan đã. Khu vực này xe nâng không được phép đi vào."
+    },
+    {
+      "speaker": "투안",
+      "korean": "네? 반장님이 제품 상자를 모두 옮기라고 하셔서 지게차에 다 싣고 왔는데요.",
+      "vietnamese": "Dạ? Tổ trưởng bảo tôi chuyển hết thùng hàng, nên tôi đã chất tất cả lên xe nâng rồi ạ."
+    },
+    {
+      "speaker": "마두",
+      "korean": "저기 붙어 있는 표지판을 보세요. 여기는 지게차를 타고 지나가면 안 돼요.",
+      "vietnamese": "Hãy nhìn tấm biển gắn ở đó đi. Ở đây không được lái xe nâng đi qua đâu."
+    },
+    {
+      "speaker": "투안",
+      "korean": "아, 안전 표지를 못 봤어요. 그런데 왜 지게차를 타고 갈 수 없어요? 충분히 지나갈 수 있을 정도로 통로가 넓은데요.",
+      "vietnamese": "À, tôi không nhìn thấy biển an toàn. Nhưng tại sao không được đi xe nâng qua? Lối đi cũng khá rộng mà."
+    },
+    {
+      "speaker": "마두",
+      "korean": "여기는 사람들이 많이 지나다니는 곳이라서 사고가 나기 쉽거든요.",
+      "vietnamese": "Đây là nơi có nhiều người qua lại nên rất dễ xảy ra tai nạn."
+    },
+    {
+      "speaker": "투안",
+      "korean": "아, 그렇군요. 죄송합니다. 핸드카로 상자를 옮겨야겠네요.",
+      "vietnamese": "À, ra vậy. Tôi xin lỗi. Tôi sẽ dùng xe đẩy tay để chuyển các thùng hàng."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "왜 지게차를 타고 지나갈 수 없어요?",
+      "vietnamese_question": "Tại sao không được lái xe nâng đi qua?",
+      "korean_answer": "사람들이 많이 지나다니는 곳이라서 사고가 나기 쉬워요.",
+      "vietnamese_answer": "Vì đây là nơi có nhiều người qua lại nên dễ xảy ra tai nạn."
+    },
+    {
+      "korean_question": "투안 씨는 지게차 말고 무엇으로 상자를 옮기려고 해요?",
+      "vietnamese_question": "Anh Tuấn sẽ dùng gì để chuyển thùng hàng thay vì xe nâng?",
+      "korean_answer": "핸드카로 상자를 옮기려고 해요.",
+      "vietnamese_answer": "Anh ấy sẽ dùng xe đẩy tay để chuyển thùng hàng."
+    }
+  ]
+ }
+ ]
+

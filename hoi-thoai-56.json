@@ -1,0 +1,99 @@
+
+[
+{
+  "audio": "hoi-thoai-56-1.mp3",
+  "hinhanh": "hoi-thoai-56-1.jpg",
+  "hoithoai":[
+    {
+      "speaker": "진수",
+      "korean": "마두 씨, 무슨 일 있어요? 얼굴이 안 좋아 보여요.",
+      "vietnamese": "Anh Madhu, có chuyện gì vậy? Trông anh không được khỏe lắm."
+    },
+    {
+      "speaker": "마두",
+      "korean": "친구한테 전화가 왔는데 공장에서 일하다가 불을 낼 뻔했대요. 용접하다가 불꽃이 주변에 있던 상자에 튀었대요.",
+      "vietnamese": "Tôi vừa nhận điện thoại từ bạn, anh ấy nói khi đang làm việc trong nhà máy thì suýt gây cháy. Trong lúc hàn, tia lửa bắn trúng cái thùng gần đó."
+    },
+    {
+      "speaker": "진수",
+      "korean": "친구는 괜찮아요? 많이 놀랐겠어요. 불은 바로 껐대요?",
+      "vietnamese": "Bạn của anh có sao không? Chắc anh ấy hoảng lắm. Có dập được lửa ngay không?"
+    },
+    {
+      "speaker": "마두",
+      "korean": "다행히 옆에 있던 동료가 소화기로 진화했대요.",
+      "vietnamese": "May mắn là một đồng nghiệp ở gần đó đã dùng bình cứu hỏa để dập tắt lửa."
+    },
+    {
+      "speaker": "진수",
+      "korean": "정말 큰일 날 뻔했네요. 마두 씨도 용접할 때 조심하세요. 작업을 시작하기 전에 주변에 불이 쉽게 붙을 것 같은 물건이 없는지 확인하는 거 잊지 마세요.",
+      "vietnamese": "Suýt nữa thì xảy ra chuyện lớn rồi. Anh Madhu, khi hàn anh cũng phải cẩn thận nhé. Trước khi làm việc, đừng quên kiểm tra xem xung quanh có vật nào dễ bắt lửa không."
+    },
+    {
+      "speaker": "마두",
+      "korean": "네, 항상 조심할게요.",
+      "vietnamese": "Vâng, tôi sẽ luôn cẩn thận."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "마두 씨 친구의 공장에 왜 불이 날 뻔했어요?",
+      "vietnamese_question": "Tại sao nhà máy của bạn anh Madhu suýt bị cháy?",
+      "korean_answer": "용접하다가 불꽃이 주변 상자에 튀어서 불이 날 뻔했어요.",
+      "vietnamese_answer": "Vì khi hàn, tia lửa bắn trúng cái thùng gần đó nên suýt gây cháy."
+    },
+    {
+      "korean_question": "불이 났을 때 동료들이 어떻게 했어요?",
+      "vietnamese_question": "Khi có lửa, đồng nghiệp của anh ấy đã làm gì?",
+      "korean_answer": "옆에 있던 동료가 소화기로 불을 껐어요.",
+      "vietnamese_answer": "Một đồng nghiệp ở gần đó đã dùng bình cứu hỏa để dập tắt lửa."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-56-2.mp3",
+  "hinhanh": "hoi-thoai-56-2.jpg",
+  "hoithoai":   [
+    {
+      "speaker": "강연자",
+      "korean": "여러분, 일하다가 혹시 사고가 발생할 뻔한 적이 있습니까? 사고가 발생하면 어떻게 해야 할까요?",
+      "vietnamese": "Mọi người, khi làm việc có ai từng suýt gặp tai nạn chưa? Nếu xảy ra tai nạn thì chúng ta nên làm gì?"
+    },
+    {
+      "speaker": "강연자",
+      "korean": "사고가 발생하자마자 바로 작업을 중지하고, 관리자나 작업반장에게 보고해야 합니다.",
+      "vietnamese": "Ngay khi tai nạn xảy ra, phải lập tức dừng công việc và báo cho người quản lý hoặc tổ trưởng."
+    },
+    {
+      "speaker": "강연자",
+      "korean": "만약 화재가 발생하면 빨리 119에 신고하고 다른 사람들에게도 알려야 합니다. 그리고 소화기로 불을 꺼야 합니다.",
+      "vietnamese": "Nếu xảy ra hỏa hoạn, phải nhanh chóng gọi 119 và báo cho những người khác biết. Sau đó dùng bình chữa cháy để dập lửa."
+    },
+    {
+      "speaker": "강연자",
+      "korean": "다친 사람이 있으면 응급 처치를 해야 합니다.",
+      "vietnamese": "Nếu có người bị thương, cần tiến hành sơ cứu."
+    },
+    {
+      "speaker": "강연자",
+      "korean": "그리고 중요한 것이 하나 더 있습니다. 사고 원인을 조사해야 하니까 사고 현장을 정리하지 말고 그대로 두어야 합니다.",
+      "vietnamese": "Và còn một điều quan trọng nữa. Vì cần điều tra nguyên nhân tai nạn, nên không được dọn dẹp hiện trường mà phải giữ nguyên như ban đầu."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "화재가 발생하면 어떻게 해야 돼요?",
+      "vietnamese_question": "Nếu xảy ra hỏa hoạn thì phải làm gì?",
+      "korean_answer": "빨리 119에 신고하고 다른 사람들에게 알린 다음 소화기로 불을 꺼야 해요.",
+      "vietnamese_answer": "Phải nhanh chóng gọi 119, báo cho người khác biết rồi dùng bình chữa cháy để dập lửa."
+    },
+    {
+      "korean_question": "왜 사고 현장을 정리하면 안 돼요?",
+      "vietnamese_question": "Tại sao không được dọn dẹp hiện trường tai nạn?",
+      "korean_answer": "사고 원인을 조사해야 하기 때문이에요.",
+      "vietnamese_answer": "Vì cần điều tra nguyên nhân của tai nạn."
+    }
+  ]
+ }
+ ]
+

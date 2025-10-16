@@ -1,0 +1,104 @@
+
+[
+{
+  "audio": "hoi-thoai-52-1.mp3",
+  "hinhanh": "hoi-thoai-52-1.jpg",
+  "hoithoai": [
+    {
+      "speaker": "딜로바",
+      "korean": "사장님, 토마토와 당근은 신문지를 덮어서 서늘한 곳에 뒀어요.",
+      "vietnamese": "Thưa giám đốc, em đã phủ báo lên cà chua và cà rốt rồi để ở chỗ mát."
+    },
+    {
+      "speaker": "사장님",
+      "korean": "나머지 채소는 씻은 후에 랩에 싸서 냉장고에 넣었어요?",
+      "vietnamese": "Còn các loại rau khác, em đã rửa sạch rồi bọc bằng màng bọc thực phẩm và cho vào tủ lạnh chưa?"
+    },
+    {
+      "speaker": "딜로바",
+      "korean": "네. 다른 식재료들은 선반에 정리할까요?",
+      "vietnamese": "Rồi ạ. Em có nên sắp xếp các nguyên liệu khác lên kệ không ạ?"
+    },
+    {
+      "speaker": "사장님",
+      "korean": "잠깐만요. 여기 소비 기한이 지난 재료들이 있어서 이것부터 버려야 될 것 같아요. 미리 날짜를 확인했어야 했는데…….",
+      "vietnamese": "Khoan đã. Ở đây có vài nguyên liệu đã hết hạn sử dụng, chắc ta phải bỏ chúng trước. Đáng lẽ phải kiểm tra hạn sớm hơn…"
+    },
+    {
+      "speaker": "딜로바",
+      "korean": "저도 찾아볼게요. 날짜만 확인하면 돼요?",
+      "vietnamese": "Em cũng sẽ kiểm tra cùng. Chỉ cần xem ngày hết hạn thôi đúng không ạ?"
+    },
+    {
+      "speaker": "사장님",
+      "korean": "맞아요. 소비 기한이 지난 것은 바로 버리세요. 그리고 기한이 얼마 남지 않은 것은 선반 앞쪽에 두고 기한이 많이 남은 것은 뒷쪽에 두세요.",
+      "vietnamese": "Đúng rồi. Cái nào đã hết hạn thì bỏ đi ngay. Cái nào sắp hết hạn thì để ở phía trước kệ, còn cái nào còn lâu mới hết thì để phía sau."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "채소를 냉장고에 넣을 때 어떻게 해야 돼요?",
+      "vietnamese_question": "Khi cho rau vào tủ lạnh thì cần làm gì?",
+      "korean_answer": "씻은 후에 랩에 싸서 냉장고에 넣어야 돼요.",
+      "vietnamese_answer": "Cần rửa sạch rồi bọc bằng màng bọc thực phẩm trước khi cho vào tủ lạnh."
+    },
+    {
+      "korean_question": "딜로바 씨는 지금 뭘 할 거예요?",
+      "vietnamese_question": "Bây giờ Dillova sẽ làm gì?",
+      "korean_answer": "소비 기한이 지난 재료를 찾아서 버릴 거예요.",
+      "vietnamese_answer": "Cô ấy sẽ kiểm tra và bỏ những nguyên liệu đã hết hạn."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-52-2.mp3",
+  "hinhanh": "hoi-thoai-52-2.jpg",
+  "hoithoai":  [
+    {
+      "speaker": "딜로바",
+      "korean": "방금 배달된 해산물을 어떻게 할까요?",
+      "vietnamese": "Món hải sản vừa được giao thì em nên làm gì ạ?"
+    },
+    {
+      "speaker": "주방장님",
+      "korean": "이건 모두 손질이 되어 있네요. 오후에 사용해야 되니까 찬물에 씻은 후에 랩으로 싸서 냉장고에 넣어 두세요. 그리고 냉장고에 있는 고기를 좀 꺼내 주세요.",
+      "vietnamese": "Tất cả đã được sơ chế rồi. Chiều nay sẽ dùng, nên hãy rửa qua nước lạnh, bọc bằng màng bọc thực phẩm rồi cho vào tủ lạnh. Và nhớ lấy thịt trong tủ lạnh ra giúp tôi nhé."
+    },
+    {
+      "speaker": "딜로바",
+      "korean": "네, 알겠습니다. 주방장님, 고기가 덜 녹은 것 같아요.",
+      "vietnamese": "Vâng, em hiểu rồi. Bếp trưởng ơi, hình như thịt vẫn còn hơi đông ạ."
+    },
+    {
+      "speaker": "주방장님",
+      "korean": "해동하기 시작한 지 몇 시간이 지났어요?",
+      "vietnamese": "Đã bao lâu rồi kể từ khi bắt đầu rã đông thịt?"
+    },
+    {
+      "speaker": "딜로바",
+      "korean": "오전에 냉장실로 옮겨 두었는데…… 빨리 녹게 밖에 둘까요?",
+      "vietnamese": "Em đã chuyển vào tủ mát từ sáng rồi... Em có nên để ra ngoài cho nhanh tan không ạ?"
+    },
+    {
+      "speaker": "주방장님",
+      "korean": "아니요, 고기는 냉장고에서 천천히 녹여야 세균 번식을 막을 수 있어요. 그래야 식중독도 예방이 되고요.",
+      "vietnamese": "Không, thịt phải được rã đông từ từ trong tủ lạnh để ngăn vi khuẩn sinh sôi. Như vậy cũng giúp phòng ngừa ngộ độc thực phẩm."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "딜로바 씨는 지금부터 뭘 해야 돼요?",
+      "vietnamese_question": "Bây giờ Dillova cần làm gì?",
+      "korean_answer": "해산물을 찬물에 씻은 후에 랩으로 싸서 냉장고에 넣어야 돼요.",
+      "vietnamese_answer": "Cô ấy cần rửa hải sản bằng nước lạnh, bọc bằng màng bọc thực phẩm rồi cho vào tủ lạnh."
+    },
+    {
+      "korean_question": "고기는 왜 냉장실에서 해동해야 돼요?",
+      "vietnamese_question": "Tại sao thịt phải được rã đông trong tủ lạnh?",
+      "korean_answer": "세균 번식을 막고 식중독을 예방하기 위해서예요.",
+      "vietnamese_answer": "Để ngăn ngừa vi khuẩn phát triển và phòng tránh ngộ độc thực phẩm."
+    }
+  ]
+ }
+ ]
+

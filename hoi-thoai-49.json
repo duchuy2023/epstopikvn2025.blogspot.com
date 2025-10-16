@@ -1,0 +1,104 @@
+
+[
+{
+  "audio": "hoi-thoai-49-1.mp3",
+  "hinhanh": "hoi-thoai-49-1.jpg",
+  "hoithoai": [
+    {
+      "speaker": "왕 민",
+      "korean": "반장님, 오늘도 4번 막장에서 작업하면 돼요?",
+      "vietnamese": "Tổ trưởng, hôm nay chúng tôi cũng làm ở hầm số 4 phải không ạ?"
+    },
+    {
+      "speaker": "반장님",
+      "korean": "아니요, 왕민 씨하고 장웨이 씨는 선탄장으로 가세요. 내일 석탄 출하를 해야 돼서 일손이 더 필요하대요.",
+      "vietnamese": "Không, anh Wang Min và anh Zhang Wei hãy đến khu rửa than nhé. Họ cần thêm người vì ngày mai phải xuất than."
+    },
+    {
+      "speaker": "왕 민",
+      "korean": "선탄장요? 거기서는 뭘 하면 돼요?",
+      "vietnamese": "Khu rửa than ạ? Ở đó chúng tôi cần làm gì?"
+    },
+    {
+      "speaker": "반장님",
+      "korean": "선탄장에서는 큰 석탄을 부수고 불순물을 골라내야 돼요. 세척도 하고요. 내일까지 거기서 일하고 모레부터는 다시 4번 막장으로 오세요.",
+      "vietnamese": "Ở khu rửa than thì cần đập nhỏ các khối than lớn, loại bỏ tạp chất và rửa than. Làm ở đó đến hết ngày mai, rồi ngày kia quay lại hầm số 4 nhé."
+    },
+    {
+      "speaker": "왕 민",
+      "korean": "알겠습니다. 그런데 선탄장은 어디 있어요?",
+      "vietnamese": "Rõ rồi ạ. Nhưng khu rửa than nằm ở đâu vậy?"
+    },
+    {
+      "speaker": "반장님",
+      "korean": "갱구 오른쪽에 있어요.",
+      "vietnamese": "Ở bên phải cửa hầm vào."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "왕민 씨는 오늘 어디에서 작업할 거예요?",
+      "vietnamese_question": "Hôm nay anh Wang Min sẽ làm việc ở đâu?",
+      "korean_answer": "선탄장에서 작업해요.",
+      "vietnamese_answer": "Anh ấy sẽ làm việc ở khu rửa than."
+    },
+    {
+      "korean_question": "선탄장에서는 무슨 일을 해요?",
+      "vietnamese_question": "Ở khu rửa than họ làm những việc gì?",
+      "korean_answer": "큰 석탄을 부수고 불순물을 골라내요.",
+      "vietnamese_answer": "Họ đập nhỏ than và loại bỏ tạp chất."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-49-2.mp3",
+  "hinhanh": "hoi-thoai-49-2.jpg",
+  "hoithoai":  [
+    {
+      "speaker": "지 훈",
+      "korean": "왕민 씨, 이제 폭약을 설치해도 되겠지요?",
+      "vietnamese": "Anh Wang Min, bây giờ có thể lắp thuốc nổ được rồi chứ?"
+    },
+    {
+      "speaker": "왕 민",
+      "korean": "네, 석탄이 거의 다 나온 것 같아요. 오늘은 석탄 덩어리가 크네요. 버력도 많고요.",
+      "vietnamese": "Vâng, than gần như đã được lấy ra hết rồi. Hôm nay cục than to quá, và có nhiều tạp chất nữa."
+    },
+    {
+      "speaker": "지 훈",
+      "korean": "그렇죠? 그러면 이번에는 폭약 설치 간격을 좀 좁게 해야 될 것 같네요.",
+      "vietnamese": "Đúng không? Vậy lần này có lẽ nên đặt thuốc nổ gần nhau hơn một chút."
+    },
+    {
+      "speaker": "왕 민",
+      "korean": "과장님이 폭약을 설치하시죠? 과장님 모시고 올까요?",
+      "vietnamese": "Thường là trưởng phòng sẽ lắp thuốc nổ đúng không ạ? Tôi có nên đi gọi ông ấy không?"
+    },
+    {
+      "speaker": "지 훈",
+      "korean": "과장님은 지금 식사 중이세요. 다른 막장의 지주가 흔들려서 다시 설치하느라고 점심을 못 드셨대요. 식사 끝나면 이쪽으로 오실 거예요.",
+      "vietnamese": "Trưởng phòng đang ăn trưa. Ở hầm khác, cột chống bị rung nên ông ấy phải lắp lại và chưa ăn được. Ăn xong ông ấy sẽ qua đây."
+    },
+    {
+      "speaker": "왕 민",
+      "korean": "그럼 기다리는 동안 버력을 좀 골라내고 있을게요.",
+      "vietnamese": "Vậy trong lúc chờ, tôi sẽ nhặt bớt tạp chất ra."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "왜 오늘은 폭약 설치 간격을 좁게 해야 돼요?",
+      "vietnamese_question": "Tại sao hôm nay phải đặt thuốc nổ gần nhau hơn?",
+      "korean_answer": "석탄 덩어리가 크고 버력이 많기 때문이에요.",
+      "vietnamese_answer": "Vì cục than to và có nhiều tạp chất."
+    },
+    {
+      "korean_question": "과장님은 왜 지금 점심을 드세요?",
+      "vietnamese_question": "Tại sao trưởng phòng bây giờ mới ăn trưa?",
+      "korean_answer": "다른 막장의 지주를 다시 설치하느라 점심을 못 드셨기 때문이에요.",
+      "vietnamese_answer": "Vì ông ấy phải lắp lại cột chống ở hầm khác nên chưa kịp ăn trưa."
+    }
+  ]
+ }
+ ]
+

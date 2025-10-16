@@ -1,0 +1,104 @@
+
+[
+{
+  "audio": "hoi-thoai-60-1.mp3",
+  "hinhanh": "hoi-thoai-60-1.jpg",
+  "hoithoai": [
+    {
+      "speaker": "마두",
+      "korean": "진수 씨, 고용허가제로 한국에 온 외국인 근로자도 산재보험금을 받을 수 있어요?",
+      "vietnamese": "Anh Jinsu, lao động nước ngoài sang Hàn Quốc theo chương trình cấp phép việc làm cũng có thể nhận tiền bảo hiểm tai nạn lao động không?"
+    },
+    {
+      "speaker": "진수",
+      "korean": "산재보험은 고용주가 반드시 가입해야 되니까 누구나 보험금을 받을 수 있어요. 무슨 일이 있어요?",
+      "vietnamese": "Bảo hiểm tai nạn lao động là loại mà chủ lao động bắt buộc phải tham gia, nên ai cũng có thể nhận được tiền bảo hiểm. Có chuyện gì vậy?"
+    },
+    {
+      "speaker": "마두",
+      "korean": "친구가 작업을 하다가 다리를 다치는 바람에 입원을 했거든요. 그런데 병원비가 많이 나올까 봐 걱정하고 있어서요.",
+      "vietnamese": "Bạn tôi bị thương ở chân trong lúc làm việc nên đang phải nhập viện. Nhưng cậu ấy lo là viện phí sẽ cao quá."
+    },
+    {
+      "speaker": "진수",
+      "korean": "일을 하다가 다쳤으면 산재보험금을 받을 수 있어요. 그리고 직장인이면 건강보험에 가입이 되어 있을 테니까 의료비 혜택도 받을 수 있고요.",
+      "vietnamese": "Nếu bị thương khi đang làm việc thì có thể nhận được tiền bảo hiểm tai nạn lao động. Hơn nữa, nếu là người đi làm thì cũng có bảo hiểm y tế nên sẽ được hưởng hỗ trợ chi phí điều trị nữa."
+    },
+    {
+      "speaker": "마두",
+      "korean": "그래요? 친구한테 보험 혜택을 받을 수 있다고 빨리 알려 줘야겠어요.",
+      "vietnamese": "Thật vậy sao? Tôi phải nhanh chóng nói cho bạn tôi biết là có thể nhận được quyền lợi bảo hiểm."
+    },
+    {
+      "speaker": "진수",
+      "korean": "네. 마두 씨도 작업할 때 조심하세요.",
+      "vietnamese": "Vâng. Anh Madhu cũng nên cẩn thận khi làm việc nhé."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "마두 씨 친구는 지금 어디에 있어요?",
+      "vietnamese_question": "Bạn của anh Madhu hiện đang ở đâu?",
+      "korean_answer": "다리를 다쳐서 병원에 입원해 있어요.",
+      "vietnamese_answer": "Đang nằm viện vì bị thương ở chân."
+    },
+    {
+      "korean_question": "직장에서 일하다가 다치면 무슨 보험금을 받을 수 있어요?",
+      "vietnamese_question": "Nếu bị thương khi làm việc thì có thể nhận loại tiền bảo hiểm nào?",
+      "korean_answer": "산재보험금을 받을 수 있어요.",
+      "vietnamese_answer": "Có thể nhận tiền bảo hiểm tai nạn lao động."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-60-2.mp3",
+  "hinhanh": "hoi-thoai-60-2.jpg",
+  "hoithoai":  [
+    {
+      "speaker": "칼로",
+      "korean": "E-9 비자로 한국에 온 근로자인데 출국만기보험에 가입하고 싶어요.",
+      "vietnamese": "Tôi là lao động sang Hàn Quốc bằng visa E-9, tôi muốn đăng ký bảo hiểm mãn hạn xuất cảnh."
+    },
+    {
+      "speaker": "직원",
+      "korean": "그러세요? 그런데 출국만기보험은 사업주가 근로자를 위해 가입하는 보험이에요. 외국인 근로자는 귀국비용보험과 상해보험에 가입하시면 돼요.",
+      "vietnamese": "Vậy sao? Nhưng bảo hiểm mãn hạn xuất cảnh là loại bảo hiểm mà chủ sử dụng lao động đăng ký cho người lao động. Người lao động nước ngoài thì cần tham gia bảo hiểm chi phí hồi hương và bảo hiểm tai nạn cá nhân."
+    },
+    {
+      "speaker": "칼로",
+      "korean": "상해보험은 아는데 귀국비용보험은 처음 들어요. 어떤 보험이에요?",
+      "vietnamese": "Tôi biết về bảo hiểm tai nạn cá nhân, nhưng đây là lần đầu tiên nghe về bảo hiểm chi phí hồi hương. Đó là loại bảo hiểm gì vậy?"
+    },
+    {
+      "speaker": "직원",
+      "korean": "귀국에 필요한 비용을 준비하기 위한 보험이에요. 근로계약이 끝나고 부담없이 고향에 돌아가려면 반드시 가입해야 돼요.",
+      "vietnamese": "Đó là bảo hiểm để chuẩn bị chi phí cần thiết khi về nước. Nếu muốn trở về quê hương sau khi hợp đồng lao động kết thúc mà không gặp khó khăn tài chính, anh phải đăng ký bảo hiểm này."
+    },
+    {
+      "speaker": "칼로",
+      "korean": "네, 알겠습니다. 그런데 보험금은 얼마예요?",
+      "vietnamese": "Vâng, tôi hiểu rồi. Nhưng phí bảo hiểm là bao nhiêu vậy?"
+    },
+    {
+      "speaker": "직원",
+      "korean": "국가별로 내야 하는 금액이 다른데 일시금으로 내거나 3회 이내로 나누어 내시면 돼요.",
+      "vietnamese": "Số tiền phải đóng khác nhau tùy theo quốc gia, nhưng có thể đóng một lần hoặc chia làm tối đa ba đợt."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "칼로 씨는 왜 여기에 왔어요?",
+      "vietnamese_question": "Tại sao Carlo lại đến đây?",
+      "korean_answer": "출국만기보험에 가입하려고 왔어요.",
+      "vietnamese_answer": "Anh ấy đến để đăng ký bảo hiểm mãn hạn xuất cảnh."
+    },
+    {
+      "korean_question": "외국인 근로자가 들어야 하는 보험은 뭐예요?",
+      "vietnamese_question": "Người lao động nước ngoài cần tham gia những loại bảo hiểm nào?",
+      "korean_answer": "귀국비용보험과 상해보험이에요.",
+      "vietnamese_answer": "Là bảo hiểm chi phí hồi hương và bảo hiểm tai nạn cá nhân."
+    }
+  ]
+ }
+ ]
+

@@ -1,0 +1,104 @@
+
+[
+{
+  "audio": "hoi-thoai-50-1.mp3",
+  "hinhanh": "hoi-thoai-50-1.jpg",
+  "hoithoai": [
+    {
+      "speaker": "반 장 님",
+      "korean": "오늘은 분 감기 작업을 합시다. 해 본 적 있어요?",
+      "vietnamese": "Hôm nay chúng ta sẽ làm công việc quấn bầu cây nhé. Cậu đã từng làm việc này chưa?"
+    },
+    {
+      "speaker": "민민아웅",
+      "korean": "아니요, 분 감기는 해 본 적이 없습니다.",
+      "vietnamese": "Chưa ạ, tôi chưa từng làm công việc quấn bầu cây."
+    },
+    {
+      "speaker": "반 장 님",
+      "korean": "그럼 내가 보여 줄 테니까 잘 보세요. 먼저 나무의 아랫부분에 있는 가지는 이렇게 위로 올려서 밴드로 묶어야 돼요.",
+      "vietnamese": "Vậy tôi sẽ làm mẫu cho xem, hãy chú ý nhé. Trước tiên, các cành ở phần gốc cây phải được nâng lên và buộc lại bằng dây đai như thế này."
+    },
+    {
+      "speaker": "민민아웅",
+      "korean": "아, 네. 그다음에는 뭘 해야 돼요?",
+      "vietnamese": "À, vâng. Sau đó phải làm gì ạ?"
+    },
+    {
+      "speaker": "반 장 님",
+      "korean": "밴드로 묶었으면 삽으로 나무 주변을 둥글게 파다가 잔뿌리가 나오면 뿌리 가위로 잘라요. 그리고 마대로 한 번 감은 후에 밴드로 다시 감아야 하는데요. 내가 밴드를 당길 테니까 민민아웅 씨가 한번 감아 볼래요?",
+      "vietnamese": "Sau khi buộc xong, dùng xẻng đào tròn quanh gốc cây. Khi gặp rễ nhỏ thì dùng kéo cắt rễ để cắt đi. Sau đó quấn một lớp bao bố quanh bầu cây, rồi quấn lại bằng dây đai. Tôi sẽ kéo dây, còn cậu thử quấn nhé?"
+    },
+    {
+      "speaker": "민민아웅",
+      "korean": "네, 반장님. 알겠습니다.",
+      "vietnamese": "Vâng, tổ trưởng. Tôi hiểu rồi ạ."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "잔뿌리는 어떻게 처리해야 돼요?",
+      "vietnamese_question": "Rễ nhỏ thì phải xử lý như thế nào?",
+      "korean_answer": "잔뿌리가 나오면 뿌리 가위로 잘라야 돼요.",
+      "vietnamese_answer": "Khi gặp rễ nhỏ thì phải dùng kéo cắt rễ để cắt đi."
+    },
+    {
+      "korean_question": "분 감기 작업은 어떻게 해요?",
+      "vietnamese_question": "Công việc quấn bầu cây được thực hiện như thế nào?",
+      "korean_answer": "나무 주변을 둥글게 판 다음 마대로 감고 밴드로 다시 감아요.",
+      "vietnamese_answer": "Đào tròn quanh gốc cây, rồi quấn bao bố và quấn lại bằng dây đai."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-50-2.mp3",
+  "hinhanh": "hoi-thoai-50-2.jpg",
+  "hoithoai":  [
+    {
+      "speaker": "영 호",
+      "korean": "벌채지에서 연락이 왔어요. 벌목이 끝났대요.",
+      "vietnamese": "Có điện thoại từ khu vực khai thác gỗ. Họ nói là việc đốn hạ đã xong rồi."
+    },
+    {
+      "speaker": "민민아웅",
+      "korean": "그럼 조재 작업을 하러 가야겠네요.",
+      "vietnamese": "Vậy chúng ta phải đi làm công việc cắt gỗ thôi."
+    },
+    {
+      "speaker": "영 호",
+      "korean": "네. 체인톱을 챙겼지요? 참, 말뚝도 가져가야 돼요. 톱질을 하다 보면 나무가 움직일 수 있으니까요.",
+      "vietnamese": "Vâng. Cậu đã chuẩn bị cưa xích chưa? À, nhớ mang cả cọc gỗ nữa nhé. Khi cưa, cây có thể bị lay động mà."
+    },
+    {
+      "speaker": "민민아웅",
+      "korean": "네, 체인톱이랑 말뚝을 챙기겠습니다. 토막 내기도 벌채지에서 해요?",
+      "vietnamese": "Vâng, em sẽ mang theo cưa xích và cọc gỗ. Có cắt khúc luôn tại khu khai thác không ạ?"
+    },
+    {
+      "speaker": "영 호",
+      "korean": "아니요, 반장님이 벌채지에서는 가지치기만 하고 집재장에서 나머지 작업을 하랬어요. 그렇게 해야 빨리 끝낼 수 있대요.",
+      "vietnamese": "Không, tổ trưởng bảo chỉ cắt cành ở khu khai thác thôi, còn lại sẽ làm ở bãi tập kết gỗ. Làm vậy sẽ nhanh hơn."
+    },
+    {
+      "speaker": "민민아웅",
+      "korean": "아, 네. 알겠습니다. 얼른 가서 체인톱이랑 말뚝 챙겨 오겠습니다.",
+      "vietnamese": "À, vâng. Em hiểu rồi. Em sẽ đi lấy ngay cưa xích và cọc gỗ ạ."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "말뚝을 왜 가져가야 해요?",
+      "vietnamese_question": "Tại sao phải mang theo cọc gỗ?",
+      "korean_answer": "톱질을 하다 보면 나무가 움직일 수 있으니까요.",
+      "vietnamese_answer": "Vì khi cưa cây có thể bị lay động."
+    },
+    {
+      "korean_question": "집재장에서 무슨 작업을 할 거예요?",
+      "vietnamese_question": "Họ sẽ làm công việc gì ở bãi tập kết gỗ?",
+      "korean_answer": "벌채지에서는 가지치기만 하고 집재장에서 나머지 작업을 해요.",
+      "vietnamese_answer": "Họ chỉ cắt cành ở khu khai thác và làm các công việc còn lại ở bãi tập kết gỗ."
+    }
+  ]
+ }
+ ]
+

@@ -1,0 +1,104 @@
+
+[
+{
+  "audio": "hoi-thoai-47-1.mp3",
+  "hinhanh": "hoi-thoai-47-1.jpg",
+  "hoithoai": [
+    {
+      "speaker": "반장님",
+      "korean": "자, 그물을 끌어올렸으니까 이제 세척을 시작합시다.",
+      "vietnamese": "Được rồi, vì chúng ta đã kéo lưới lên rồi nên hãy bắt đầu rửa lưới nào."
+    },
+    {
+      "speaker": "푸 캄",
+      "korean": "반장님, 세척은 고압 분사기로 하면 되지요?",
+      "vietnamese": "Tổ trưởng, việc rửa có thể làm bằng máy phun áp lực phải không ạ?"
+    },
+    {
+      "speaker": "반장님",
+      "korean": "네, 맞아요. 세척하는 동안 찢어진 곳이 있는지 그물을 잘 살펴보세요. 그리고 찢어진 곳이 있으면 그 부분을 묶어 주세요.",
+      "vietnamese": "Đúng rồi. Trong khi rửa, hãy kiểm tra kỹ xem có chỗ nào bị rách không. Nếu có chỗ rách thì buộc lại phần đó nhé."
+    },
+    {
+      "speaker": "푸 캄",
+      "korean": "네, 알겠습니다. 그런데 묶은 부분은 언제 수선해요?",
+      "vietnamese": "Vâng, tôi hiểu rồi. Nhưng phần buộc đó khi nào sẽ được sửa lại ạ?"
+    },
+    {
+      "speaker": "반장님",
+      "korean": "그물을 말린 후에 수선해야 돼요. 그물을 다 세척한 후에는 넓게 펼쳐서 말려야 돼요. 알고 있지요?",
+      "vietnamese": "Phải sửa sau khi lưới khô. Sau khi rửa xong, phải trải lưới ra rộng để phơi khô. Cậu biết rồi đúng không?"
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "그물은 무엇으로 세척해요?",
+      "vietnamese_question": "Họ dùng gì để rửa lưới?",
+      "korean_answer": "고압 분사기로 세척해요.",
+      "vietnamese_answer": "Họ rửa bằng máy phun áp lực."
+    },
+    {
+      "korean_question": "그물을 세척한 후에 무엇을 해요?",
+      "vietnamese_question": "Sau khi rửa lưới xong, họ làm gì?",
+      "korean_answer": "그물을 넓게 펼쳐서 말려요.",
+      "vietnamese_answer": "Họ trải lưới ra rộng để phơi khô."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-47-2.mp3",
+  "hinhanh": "hoi-thoai-47-2.jpg",
+  "hoithoai": [
+    {
+      "speaker": "사장님",
+      "korean": "오늘 새 양식장에 펌프를 설치하기로 했지요?",
+      "vietnamese": "Hôm nay chúng ta đã thống nhất sẽ lắp máy bơm ở trại nuôi mới, đúng không?"
+    },
+    {
+      "speaker": "푸 캄",
+      "korean": "네, 사장님. 어떻게 설치하면 되는지 알려 주시면 제가 하겠습니다.",
+      "vietnamese": "Vâng, thưa giám đốc. Nếu anh chỉ cho em cách lắp, em sẽ làm ạ."
+    },
+    {
+      "speaker": "사장님",
+      "korean": "먼저 펌프의 위치를 정하고 바닥에 고정해야 돼요. 그다음 펌프와 수조를 호스로 연결해야 돼요.",
+      "vietnamese": "Trước tiên phải xác định vị trí của máy bơm rồi cố định xuống nền. Sau đó nối máy bơm với bể bằng ống dẫn nước."
+    },
+    {
+      "speaker": "푸 캄",
+      "korean": "알겠습니다. 호스를 연결할 때 주의할 점이 있어요?",
+      "vietnamese": "Em hiểu rồi. Khi nối ống dẫn nước thì cần chú ý điều gì ạ?"
+    },
+    {
+      "speaker": "사장님",
+      "korean": "네, 호스가 꼬이거나 접히지 않도록 특별히 주의해야 돼요. 물이 잘 흐르게 해야 하니까요.",
+      "vietnamese": "Đúng rồi. Phải đặc biệt chú ý để ống không bị xoắn hay gập lại, vì cần đảm bảo nước chảy thông suốt."
+    },
+    {
+      "speaker": "푸 캄",
+      "korean": "알겠습니다. 조심해서 연결하겠습니다.",
+      "vietnamese": "Em hiểu rồi, em sẽ cẩn thận khi nối ống."
+    },
+    {
+      "speaker": "사장님",
+      "korean": "설치 작업이 끝나면 나한테 알려 주세요. 펌프가 잘 작동하는지 같이 확인하기로 해요.",
+      "vietnamese": "Khi lắp xong thì báo cho tôi nhé. Chúng ta sẽ cùng kiểm tra xem máy bơm có hoạt động tốt không."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "오늘 할 일은 뭐예요?",
+      "vietnamese_question": "Hôm nay họ sẽ làm gì?",
+      "korean_answer": "새 양식장에 펌프를 설치할 거예요.",
+      "vietnamese_answer": "Họ sẽ lắp máy bơm ở trại nuôi mới."
+    },
+    {
+      "korean_question": "호스를 연결할 때 주의할 점이 뭐예요?",
+      "vietnamese_question": "Khi nối ống dẫn nước cần chú ý điều gì?",
+      "korean_answer": "호스가 꼬이거나 접히지 않도록 주의해야 돼요.",
+      "vietnamese_answer": "Cần chú ý để ống không bị xoắn hoặc gập lại."
+    }
+  ]
+ }
+ ]
+

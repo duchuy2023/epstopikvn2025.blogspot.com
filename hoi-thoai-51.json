@@ -1,0 +1,104 @@
+
+[
+{
+  "audio": "hoi-thoai-51-1.mp3",
+  "hinhanh": "hoi-thoai-51-1.jpg",
+  "hoithoai": [
+    {
+      "speaker": "실장님",
+      "korean": "오늘부터 연휴 시작이라서 예약한 손님이 많아요. 객실 청소에 신경 써 주세요. 그럼 청소 시작하세요.",
+      "vietnamese": "Từ hôm nay bắt đầu kỳ nghỉ nên có rất nhiều khách đã đặt phòng. Hãy chú ý kỹ khi dọn phòng nhé. Bắt đầu dọn dẹp thôi."
+    },
+    {
+      "speaker": "자 야",
+      "korean": "네, 알겠습니다.",
+      "vietnamese": "Vâng, em hiểu rồi ạ."
+    },
+    {
+      "speaker": "실장님",
+      "korean": "자야 씨, 무슨 문제가 있어요? 왜 청소하러 안 가요?",
+      "vietnamese": "Jaya, có vấn đề gì sao? Sao chưa đi dọn phòng?"
+    },
+    {
+      "speaker": "자 야",
+      "korean": "하우스키핑 카트가 안 움직여서요.",
+      "vietnamese": "Xe đẩy dọn phòng không di chuyển được ạ."
+    },
+    {
+      "speaker": "실장님",
+      "korean": "아, 이번에 바뀐 하우스키핑 카트는 전동식이에요. 그래서 이 버튼을 눌렀다가 떼어야 작동해요. 한번 해 보세요.",
+      "vietnamese": "À, xe đẩy dọn phòng mới này là loại chạy điện. Phải nhấn rồi nhả nút này thì nó mới hoạt động. Thử xem nhé."
+    },
+    {
+      "speaker": "자 야",
+      "korean": "네, 그렇게 하니까 되네요. 감사합니다. 그럼 청소하러 가겠습니다.",
+      "vietnamese": "Vâng, làm vậy thì được rồi. Cảm ơn ạ. Em đi dọn phòng ngay đây."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "자야 씨는 왜 청소하러 안 갔어요?",
+      "vietnamese_question": "Tại sao Jaya chưa đi dọn phòng?",
+      "korean_answer": "하우스키핑 카트가 안 움직였어요.",
+      "vietnamese_answer": "Vì xe đẩy dọn phòng không di chuyển được."
+    },
+    {
+      "korean_question": "이번에 바뀐 하우스키핑 카트는 어떻게 사용해요?",
+      "vietnamese_question": "Xe đẩy dọn phòng mới được sử dụng như thế nào?",
+      "korean_answer": "버튼을 눌렀다가 떼어야 작동해요.",
+      "vietnamese_answer": "Phải nhấn rồi nhả nút thì xe mới hoạt động."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-51-2.mp3",
+  "hinhanh": "hoi-thoai-51-2.jpg",
+  "hoithoai":  [
+    {
+      "speaker": "선 배",
+      "korean": "자야, 지금 손님 물건을 옮기고 있어?",
+      "vietnamese": "Jaya, em đang di chuyển đồ của khách à?"
+    },
+    {
+      "speaker": "자 야",
+      "korean": "네, 테이블 위가 더러워서 청소하려고요. 청소하는 동안 잠시 옮겨 놓으면 안 될까요?",
+      "vietnamese": "Vâng, em định lau bàn vì nó bẩn quá. Trong lúc lau tạm dời chúng đi có được không ạ?"
+    },
+    {
+      "speaker": "선 배",
+      "korean": "손님들 물건은 함부로 만지거나 옮기면 안 돼. 손님들이 방에 들어왔을 때 물건이 제자리에 없으면 오해하실 수 있거든.",
+      "vietnamese": "Không được tự ý chạm vào hay di chuyển đồ của khách. Nếu khách trở lại phòng mà thấy đồ không ở chỗ cũ thì có thể hiểu lầm đấy."
+    },
+    {
+      "speaker": "자 야",
+      "korean": "네, 알겠습니다. 그럼 테이블 위는 어떻게 청소할까요?",
+      "vietnamese": "Vâng, em hiểu rồi. Vậy em nên lau bàn như thế nào ạ?"
+    },
+    {
+      "speaker": "선 배",
+      "korean": "테이블 위에 있는 휴지를 버리고 바닥은 손걸레로 깨끗이 닦으면 돼. 안내 책자하고 잡지는 제자리에 놓고.",
+      "vietnamese": "Hãy vứt giấy rác trên bàn đi, rồi lau sạch bằng khăn tay. Còn sách hướng dẫn và tạp chí thì để lại đúng chỗ."
+    },
+    {
+      "speaker": "자 야",
+      "korean": "네, 그렇게 할게요. 다음부터는 조심하겠습니다.",
+      "vietnamese": "Vâng, em sẽ làm vậy. Từ giờ em sẽ cẩn thận hơn."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "자야 씨는 청소하면서 무슨 실수를 했어요?",
+      "vietnamese_question": "Jaya đã mắc lỗi gì khi dọn phòng?",
+      "korean_answer": "손님 물건을 옮기려고 했어요.",
+      "vietnamese_answer": "Cô ấy định di chuyển đồ của khách."
+    },
+    {
+      "korean_question": "객실 테이블 위는 어떻게 청소해야 돼요?",
+      "vietnamese_question": "Cần lau bàn trong phòng khách như thế nào?",
+      "korean_answer": "휴지를 버리고 손걸레로 닦고, 안내 책자와 잡지는 제자리에 둬야 돼요.",
+      "vietnamese_answer": "Phải vứt giấy rác đi, lau bằng khăn tay và đặt sách hướng dẫn cùng tạp chí về đúng chỗ."
+    }
+  ]
+ }
+ ]
+

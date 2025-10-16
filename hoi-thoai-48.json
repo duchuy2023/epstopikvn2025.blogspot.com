@@ -1,0 +1,109 @@
+
+[
+{
+  "audio": "hoi-thoai-48-1.mp3",
+  "hinhanh": "hoi-thoai-48-1.jpg",
+  "hoithoai": [
+    {
+      "speaker": "칼 로",
+      "korean": "반장님, 도장 준비를 마쳤습니다.",
+      "vietnamese": "Tổ trưởng, em đã hoàn thành việc chuẩn bị sơn rồi ạ."
+    },
+    {
+      "speaker": "반장님",
+      "korean": "선체 표면은 물로 깨끗하게 청소했지요?",
+      "vietnamese": "Cậu đã làm sạch bề mặt thân tàu bằng nước rồi chứ?"
+    },
+    {
+      "speaker": "칼 로",
+      "korean": "네, 물 분사기로 청소한 후에 물기를 완전히 제거해 놓았습니다.",
+      "vietnamese": "Vâng, em đã rửa sạch bằng vòi phun nước rồi lau khô hoàn toàn ạ."
+    },
+    {
+      "speaker": "반장님",
+      "korean": "어디 봅시다. 표면이 깨끗해졌네요. 바로 도장 작업을 하면 되겠어요.",
+      "vietnamese": "Để tôi xem nào. Bề mặt đã sạch rồi. Giờ có thể bắt đầu sơn ngay được."
+    },
+    {
+      "speaker": "칼 로",
+      "korean": "에어 스프레이 건으로 작업하면 되지요?",
+      "vietnamese": "Em dùng súng phun sơn bằng khí nén được chứ ạ?"
+    },
+    {
+      "speaker": "반장님",
+      "korean": "에어 스프레이 건 말고 에어리스 스프레이 건으로 작업하세요. 그래야 짧은 시간에 넓은 면적을 도장할 수 있어요. 분사 작업 끝나면 붓으로 마무리하는 것도 잊지 마시고요.",
+      "vietnamese": "Không, hãy dùng súng phun sơn không khí (airless) thay vì loại khí nén. Như vậy có thể sơn được diện tích lớn trong thời gian ngắn. Và sau khi phun xong nhớ dùng cọ để hoàn thiện nhé."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "도장 작업을 위해 무엇을 준비했어요?",
+      "vietnamese_question": "Họ đã chuẩn bị gì cho công việc sơn?",
+      "korean_answer": "선체 표면을 물로 깨끗이 청소하고 물기를 제거했어요.",
+      "vietnamese_answer": "Họ đã làm sạch bề mặt thân tàu bằng nước và lau khô hoàn toàn."
+    },
+    {
+      "korean_question": "왜 에어리스 스프레이 건으로 작업해야 돼요?",
+      "vietnamese_question": "Tại sao phải sử dụng súng phun sơn không khí (airless)?",
+      "korean_answer": "짧은 시간에 넓은 면적을 도장할 수 있기 때문이에요.",
+      "vietnamese_answer": "Vì có thể sơn được diện tích lớn trong thời gian ngắn."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-48-2.mp3",
+  "hinhanh": "hoi-thoai-48-2.jpg",
+  "hoithoai":  [
+    {
+      "speaker": "반장님",
+      "korean": "칼로 씨, 오늘 작업해야 하는 구역이 어디예요?",
+      "vietnamese": "Carlo, hôm nay khu vực chúng ta cần làm việc ở đâu?"
+    },
+    {
+      "speaker": "칼 로",
+      "korean": "조타실 쪽입니다.",
+      "vietnamese": "Ở gần phòng lái ạ."
+    },
+    {
+      "speaker": "반장님",
+      "korean": "비계 기둥은 다 세웠어요?",
+      "vietnamese": "Cột giàn giáo đã được dựng xong hết chưa?"
+    },
+    {
+      "speaker": "칼 로",
+      "korean": "네, 비계 기둥은 모두 세웠고, 띠장도 거의 다 붙였습니다.",
+      "vietnamese": "Vâng, tất cả cột giàn giáo đã dựng xong và việc lắp các thanh ngang cũng gần hoàn tất rồi ạ."
+    },
+    {
+      "speaker": "반장님",
+      "korean": "생각보다 많이 진행했네요.",
+      "vietnamese": "Tiến độ nhanh hơn tôi nghĩ đấy."
+    },
+    {
+      "speaker": "칼 로",
+      "korean": "잘 가르쳐 주신 덕분이에요. 띠장 작업이 끝나면 밑둥잡이를 설치하는 거 맞지요?",
+      "vietnamese": "Nhờ anh chỉ dạy tốt ạ. Sau khi lắp xong thanh ngang thì sẽ lắp giá đỡ dưới cùng, đúng không ạ?"
+    },
+    {
+      "speaker": "반장님",
+      "korean": "네, 맞아요. 내가 수평을 확인하는 동안 칼로 씨는 띠장 작업을 마무리해 주세요. 밑둥잡이는 함께 설치합시다. 안전 로프하고 가새도 설치해야 되니까 작업을 서두르죠.",
+      "vietnamese": "Đúng rồi. Trong lúc tôi kiểm tra độ cân bằng, Carlo hãy hoàn thiện phần thanh ngang nhé. Chúng ta sẽ cùng lắp giá đỡ dưới cùng. Cần lắp cả dây an toàn và thanh giằng nữa, nên hãy làm nhanh lên."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "오늘 작업할 구역은 어디예요?",
+      "vietnamese_question": "Hôm nay họ làm việc ở khu vực nào?",
+      "korean_answer": "조타실 쪽이에요.",
+      "vietnamese_answer": "Ở gần phòng lái."
+    },
+    {
+      "korean_question": "띠장 작업을 한 후에 무슨 작업을 해요?",
+      "vietnamese_question": "Sau khi làm xong phần thanh ngang, họ sẽ làm gì tiếp theo?",
+      "korean_answer": "밑둥잡이를 설치해요.",
+      "vietnamese_answer": "Họ sẽ lắp giá đỡ dưới cùng."
+    }
+  ]
+ }
+ ]
+

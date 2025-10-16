@@ -1,0 +1,104 @@
+
+[
+{
+  "audio": "hoi-thoai-59-1.mp3",
+  "hinhanh": "hoi-thoai-59-1.jpg",
+  "hoithoai": [
+    {
+      "speaker": "마두",
+      "korean": "아궁 씨, 외국인 등록증을 발급받는 방법 알아요? 무슨 서류가 필요해요?",
+      "vietnamese": "Anh Agung, anh có biết cách làm thẻ đăng ký người nước ngoài không? Cần những giấy tờ gì?"
+    },
+    {
+      "speaker": "아궁",
+      "korean": "먼저 통합신청서하고 여권, 사진이 있어야 돼요. 그리고 체류지 입증 서류도 필요하고요. 마두 씨는 기숙사에 사니까 회사에서 숙소 제공 확인서를 받아서 제출하면 되겠네요.",
+      "vietnamese": "Trước tiên cần có đơn đăng ký tổng hợp, hộ chiếu và ảnh. Ngoài ra còn cần giấy tờ chứng minh nơi cư trú. Vì anh Madhu sống trong ký túc xá nên có thể xin giấy xác nhận cung cấp chỗ ở từ công ty và nộp kèm theo."
+    },
+    {
+      "speaker": "마두",
+      "korean": "더 필요한 건 없어요?",
+      "vietnamese": "Còn cần gì thêm không?"
+    },
+    {
+      "speaker": "아궁",
+      "korean": "정확히 기억이 안 나는데 제가 필요한 서류 목록을 찾아서 문자 메시지로 알려 줄게요.",
+      "vietnamese": "Tôi không nhớ chính xác, nhưng tôi sẽ tìm danh sách giấy tờ cần thiết và gửi tin nhắn cho anh."
+    },
+    {
+      "speaker": "마두",
+      "korean": "정말 고마워요. 그런데 제가 이번 달에는 바빠서 외국인 등록을 할 시간이 없는데 다음 달에 해도 돼요?",
+      "vietnamese": "Cảm ơn nhiều. Nhưng tháng này tôi bận quá, không có thời gian đi đăng ký, tôi làm vào tháng sau được không?"
+    },
+    {
+      "speaker": "아궁",
+      "korean": "입국하고 90일 이내에는 해야 되니까 바쁘더라도 이번 달에 꼭 하세요.",
+      "vietnamese": "Vì phải đăng ký trong vòng 90 ngày kể từ khi nhập cảnh, nên dù bận thì anh nhất định phải làm trong tháng này."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "아궁 씨는 마두 씨에게 문자 메시지로 무엇을 보내 주기로 했어요?",
+      "vietnamese_question": "Anh Agung đã hứa sẽ gửi cho Madhu điều gì qua tin nhắn?",
+      "korean_answer": "필요한 서류 목록을 보내 주기로 했어요.",
+      "vietnamese_answer": "Sẽ gửi danh sách giấy tờ cần thiết."
+    },
+    {
+      "korean_question": "외국인 등록은 언제까지 해야 해요?",
+      "vietnamese_question": "Phải hoàn tất đăng ký người nước ngoài trước khi nào?",
+      "korean_answer": "입국하고 90일 이내에 해야 해요.",
+      "vietnamese_answer": "Phải làm trong vòng 90 ngày sau khi nhập cảnh."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-59-2.mp3",
+  "hinhanh": "hoi-thoai-59-2.jpg",
+  "hoithoai": [
+    {
+      "speaker": "마두",
+      "korean": "자하라 씨, 제 체류 기간이 4개월 정도 남았는데, 어떻게 해야 돼요?",
+      "vietnamese": "Chị Zahra, thời hạn lưu trú của tôi còn khoảng 4 tháng, tôi nên làm gì đây?"
+    },
+    {
+      "speaker": "자하라",
+      "korean": "아, 그래요? 좀 여유가 있지만 빨리 체류 기간 연장 허가 신청을 하면 좋겠네요. 지난번에 해 봐서 방법을 알아요. 도와줄까요?",
+      "vietnamese": "Vậy à? Tuy còn thời gian nhưng nên sớm nộp đơn xin gia hạn thời gian lưu trú thì tốt hơn. Tôi đã từng làm rồi, tôi biết cách. Tôi giúp nhé?"
+    },
+    {
+      "speaker": "마두",
+      "korean": "네, 좀 도와주세요. 제 친구한테 신청 방법을 물어봤는데 요즘 너무 바쁜지 연락이 없어요.",
+      "vietnamese": "Vâng, giúp tôi với. Tôi đã hỏi bạn tôi cách làm, nhưng dạo này cậu ấy bận quá nên chưa liên lạc lại."
+    },
+    {
+      "speaker": "자하라",
+      "korean": "고민이 많았겠어요. 체류 기간 연장 허가 신청은 혼자 할 수 없어요. 팀장님한테 체류 기간을 연장하고 싶다고 하면 체류 기간 연장에 필요한 서류를 준비해 줄 거예요.",
+      "vietnamese": "Chắc là anh lo lắng nhiều lắm nhỉ. Việc xin gia hạn thời gian lưu trú không thể tự làm được đâu. Nếu nói với trưởng nhóm rằng anh muốn gia hạn, họ sẽ chuẩn bị giúp các giấy tờ cần thiết."
+    },
+    {
+      "speaker": "마두",
+      "korean": "다른 건 더 필요한 거 없어요?",
+      "vietnamese": "Còn cần làm gì thêm không?"
+    },
+    {
+      "speaker": "자하라",
+      "korean": "음, 여권하고 외국인 등록증 챙겨 가면 돼요. 출입국·외국인사무소에 가기 전에 방문 예약 신청하고요.",
+      "vietnamese": "Ừm, chỉ cần mang theo hộ chiếu và thẻ đăng ký người nước ngoài. Trước khi đi đến Cục Xuất nhập cảnh thì nhớ đặt lịch hẹn trước nhé."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "마두 씨의 체류 기간 만료일은 얼마나 남았어요?",
+      "vietnamese_question": "Còn bao lâu nữa là hết hạn lưu trú của anh Madhu?",
+      "korean_answer": "약 4개월 정도 남았어요.",
+      "vietnamese_answer": "Còn khoảng 4 tháng nữa."
+    },
+    {
+      "korean_question": "마두 씨가 팀장님에게 부탁해야 하는 것은 뭐예요?",
+      "vietnamese_question": "Anh Madhu cần nhờ trưởng nhóm giúp điều gì?",
+      "korean_answer": "체류 기간 연장에 필요한 서류를 준비해 달라고 부탁해야 해요.",
+      "vietnamese_answer": "Cần nhờ chuẩn bị các giấy tờ cần thiết để gia hạn thời gian lưu trú."
+    }
+  ]
+ }
+ ]
+

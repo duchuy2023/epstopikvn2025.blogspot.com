@@ -1,0 +1,94 @@
+
+[
+{
+  "audio": "hoi-thoai-55-1.mp3",
+  "hinhanh": "hoi-thoai-55-1.jpg",
+  "hoithoai":[
+    {
+      "speaker": "반장님",
+      "korean": "어제 안전 교육 시간에 배운 대로 필요한 보호구를 정확히 착용해야 돼요. 오늘 용접 작업을 할 때 필요한 보호구가 뭐지요?",
+      "vietnamese": "Như đã học trong buổi huấn luyện an toàn hôm qua, phải mang đúng các thiết bị bảo hộ cần thiết. Khi hàn thì cần những đồ bảo hộ nào?"
+    },
+    {
+      "speaker": "칼로",
+      "korean": "용접 작업을 할 때는 용접면과 안전장갑을 착용해야 돼요.",
+      "vietnamese": "Khi hàn thì phải đeo mặt nạ hàn và găng tay an toàn."
+    },
+    {
+      "speaker": "반장님",
+      "korean": "맞아요. 그리고 호흡용 보호구도 꼭 착용하세요.",
+      "vietnamese": "Đúng rồi. Và cũng đừng quên đeo thiết bị bảo vệ hô hấp nhé."
+    },
+    {
+      "speaker": "칼로",
+      "korean": "네, 알겠습니다.",
+      "vietnamese": "Vâng, tôi hiểu rồi ạ."
+    },
+    {
+      "speaker": "반장님",
+      "korean": "작업 전에 항상 보호구를 확인하세요. 안전 교육을 받은 대로만 하면 사고를 예방할 수 있어요.",
+      "vietnamese": "Trước khi làm việc hãy luôn kiểm tra thiết bị bảo hộ. Nếu làm đúng như những gì đã học trong buổi huấn luyện an toàn thì có thể phòng tránh tai nạn."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "칼로 씨는 안전 교육 때 무엇에 대해서 배웠어요?",
+      "vietnamese_question": "Anh Carlo đã học về điều gì trong buổi huấn luyện an toàn?",
+      "korean_answer": "필요한 보호구를 정확히 착용하는 것에 대해서 배웠어요.",
+      "vietnamese_answer": "Anh ấy học về cách đeo đúng các thiết bị bảo hộ cần thiết."
+    },
+    {
+      "korean_question": "칼로 씨가 착용해야 하는 보호구는 뭐예요?",
+      "vietnamese_question": "Anh Carlo phải đeo những thiết bị bảo hộ nào?",
+      "korean_answer": "용접면, 안전장갑, 그리고 호흡용 보호구를 착용해야 돼요.",
+      "vietnamese_answer": "Anh ấy phải đeo mặt nạ hàn, găng tay an toàn và thiết bị bảo vệ hô hấp."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-55-2.mp3",
+  "hinhanh": "hoi-thoai-55-2.jpg",
+  "hoithoai":   [
+    {
+      "speaker": "반장님",
+      "korean": "오늘은 열처리 작업이 있습니다. 모두 방열복을 착용하세요. 이번 작업은 온도가 평소보다 높으니까 더 조심해야 돼요.",
+      "vietnamese": "Hôm nay có công việc xử lý nhiệt. Mọi người hãy mặc đồ bảo hộ chịu nhiệt. Lần này nhiệt độ sẽ cao hơn bình thường, nên phải cẩn thận hơn nhé."
+    },
+    {
+      "speaker": "유수프",
+      "korean": "네, 알겠습니다. 방열장갑과 방열장화도 착용해야 되지요?",
+      "vietnamese": "Vâng, tôi hiểu rồi. Chúng tôi cũng phải đeo găng tay và giày chịu nhiệt đúng không ạ?"
+    },
+    {
+      "speaker": "반장님",
+      "korean": "물론이죠. 방열 보호구를 모두 착용하는 것이 아주 중요해요. 모두 착용하고 준비되면 알려 주세요.",
+      "vietnamese": "Tất nhiên rồi. Việc mang đầy đủ các thiết bị bảo hộ chịu nhiệt là rất quan trọng. Khi mọi người mang xong và sẵn sàng thì báo cho tôi nhé."
+    },
+    {
+      "speaker": "유수프",
+      "korean": "네, 그런데 방열두건은 없는데 방열두건은 안 써도 돼요?",
+      "vietnamese": "Vâng, nhưng tôi không có mũ trùm chịu nhiệt, vậy có cần đội không ạ?"
+    },
+    {
+      "speaker": "반장님",
+      "korean": "얼굴이나 목 부분에 화상을 입을 수도 있으니까 써야 돼요. 방열두건을 가지고 올 테니까 잠시만 기다리세요.",
+      "vietnamese": "Phải đội, vì có thể bị bỏng ở mặt hoặc cổ. Tôi sẽ mang mũ trùm chịu nhiệt đến, nên hãy chờ một chút nhé."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "오늘은 무슨 작업이 있어요?",
+      "vietnamese_question": "Hôm nay có công việc gì?",
+      "korean_answer": "열처리 작업이 있어요.",
+      "vietnamese_answer": "Hôm nay có công việc xử lý nhiệt."
+    },
+    {
+      "korean_question": "유수프 씨가 착용해야 하는 방열 보호구는 뭐예요?",
+      "vietnamese_question": "Anh Yusuf phải mặc những thiết bị bảo hộ chịu nhiệt nào?",
+      "korean_answer": "방열복, 방열장갑, 방열장화, 방열두건을 착용해야 돼요.",
+      "vietnamese_answer": "Anh ấy phải mặc quần áo chịu nhiệt, găng tay chịu nhiệt, giày chịu nhiệt và mũ trùm chịu nhiệt."
+    }
+  ]
+ }
+ ]
+
