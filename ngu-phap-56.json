@@ -1,0 +1,44 @@
+[{
+  "nguphap": "-(으)ㄹ 뻔하다",
+  "loai": "Động từ + -(으)ㄹ 뻔하다",
+  "ynghia": "Được gắn vào **động từ** để diễn đạt rằng một việc **không xảy ra thật sự nhưng khả năng xảy ra rất cao**.",
+  "vidu": [
+    {
+      "cau": "길이 막혀서 늦을 뻔했어요.",
+      "nghia": "Đường bị tắc, tôi suýt trễ."
+    },
+    {
+      "cau": "바닥이 미끄러워서 넘어질 뻔했어요.",
+      "nghia": "Sàn trơn, tôi suýt ngã."
+    },
+    {
+      "cau": "보안경을 쓰지 않았으면 크게 다칠 뻔했어요.",
+      "nghia": "Nếu không đeo kính bảo hộ, tôi suýt bị thương nặng."
+    }
+  ],
+  "luat": "Động từ có 받침 → + 을 뻔하다 (늦다 → 늦을 뻔하다); không 받침/받침 ㄹ → + ㄹ 뻔하다 (다치다 → 다칠 뻔하다)."
+},
+{
+  "nguphap": "-자마자",
+  "loai": "Động từ + -자마자",
+  "ynghia": "Được gắn vào **động từ** để diễn đạt rằng ngay sau khi hành động trước kết thúc, **hành động sau xảy ra ngay lập tức**.",
+  "vidu": [
+    {
+      "cau": "회사에 도착하자마자 전화할게요.",
+      "nghia": "Ngay khi đến công ty, tôi sẽ gọi điện."
+    },
+    {
+      "cau": "불이 나자마자 119에 신고했어요.",
+      "nghia": "Ngay khi có hỏa hoạn, tôi đã gọi 119."
+    },
+    {
+      "cau": "사고가 발생하자마자 작업을 중지했어요.",
+      "nghia": "Ngay khi xảy ra tai nạn, chúng tôi đã dừng công việc."
+    },
+    {
+      "cau": "집에 도착하자마자 회사에서 전화가 왔어요.",
+      "nghia": "Ngay khi về đến nhà, công ty đã gọi điện."
+    }
+  ],
+  "luat": "Gắn vào động từ ở thể hiện tại. Khác với -는 대로, -자마자 có thể dùng khi hành động sau xảy ra ngay lập tức và không cần sự tình cờ."
+}]

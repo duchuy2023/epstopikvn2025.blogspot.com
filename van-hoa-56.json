@@ -1,0 +1,66 @@
+[
+  {
+    "title": {
+      "korean": "비상 상황 표지",
+      "vietnamese": "Biển báo tình huống khẩn cấp"
+    },
+    "data": [
+      {
+        "korean": "산업표준심의회의 KS S ISO 7010:2019를 따라 제시하였습니다.",
+        "vietnamese": "Được trình bày theo tiêu chuẩn KS S ISO 7010:2019 của Hội đồng tiêu chuẩn công nghiệp."
+      },
+      {
+        "korean": "응급처치: 응급 상황 시 취하는 임시 의료 조치",
+        "vietnamese": "Sơ cứu: xử lí y tế tạm thời trong tình huống khẩn cấp"
+      },
+      {
+        "korean": "비상 전화: 응급 상황에서 사용할 수 있도록 마련된 전화",
+        "vietnamese": "Điện thoại khẩn cấp: điện thoại được chuẩn bị để sử dụng trong những tình huống khẩn cấp"
+      },
+      {
+        "korean": "자동 심장 박동기: 심장의 정상적인 리듬으로 유지하기 위해 사용되는 의료 기기",
+        "vietnamese": "Máy khử rung tim ngoài tự động: máy y tế được sử dụng để duy trì nhịp đập bình thường của tim"
+      },
+      {
+        "korean": "들것: 환자를 옮길 때 사용하는 기구",
+        "vietnamese": "Cái cáng: dụng cụ sử dụng để chuyển bệnh nhân"
+      },
+      {
+        "korean": "마실 수 있는 물",
+        "vietnamese": "Nước uống: nước có thể uống"
+      },
+      {
+        "korean": "구급가방: 응급 처치에 필요한 물품이 들어 있는 가방",
+        "vietnamese": "Túi cấp cứu: túi đựng những vật phẩm cần thiết khi sơ cứu"
+      },
+      {
+        "korean": "산소 호흡기: 숨을 쉴 수 있도록 산소를 공급하는 장치",
+        "vietnamese": "Máy thở ô xi: là thiết bị cung cấp khí ô xi để hít thở"
+      },
+      {
+        "korean": "비상 탈출용 호흡기: 갑작스러운 비상 상황에서 벗어날 때 사용하는 호흡 장치",
+        "vietnamese": "Máy thở thoát hiểm khẩn cấp: thiết bị hô hấp sử dụng khi chạy thoát trong tình huống khẩn cấp"
+      },
+      {
+        "korean": "구명 부이: 물에 빠진 사람을 구하기 위해 사용되는 도구",
+        "vietnamese": "Phao cứu sinh: dụng cụ được sử dụng để cứu người bị đuối nước"
+      },
+      {
+        "korean": "구명 조끼: 물에 빠졌을 때 생명을 지키기 위해 입는 조끼",
+        "vietnamese": "Áo phao: áo mặc để cứu mạng khi bị rơi xuống nước"
+      }
+    ],
+    "voca": {
+      "비상구": "Cửa thoát hiểm",
+      "비상계단": "Cầu thang thoát hiểm",
+      "비상 전화": "Điện thoại khẩn cấp",
+      "비상 정지 버튼": "Nút dừng khẩn cấp",
+      "비상등": "Đèn khẩn cấp",
+      "비상 샤워": "Vòi sen khẩn cấp (dùng trong phòng hóa chất)",
+      "비상 세안기": "Thiết bị rửa mắt khẩn cấp",
+      "소화기": "Bình chữa cháy",
+      "소화전": "Trụ cứu hỏa",
+      "구급함 / 구급상자": "Tủ thuốc sơ cứu / hộp sơ cứu"
+    }
+  }
+]

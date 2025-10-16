@@ -1,0 +1,48 @@
+[
+  {
+    "title": {
+      "korean": "한국의 관광지",
+      "vietnamese": "Điểm tham quan du lịch của Hàn Quốc"
+    },
+    "data": [
+      {
+        "korean": "한국은 풍부한 문화유산과 다양한 관광 명소를 지닌 매력적인 나라입니다. 역사적인 유적지, 아름다운 자연 경관, 맛있는 음식을 즐길 수 있어 많은 외국인 관광객들이 한국을 찾고 있습니다. 코로나19가 유행하기 이전인 2019년에는 1,750만 명이 넘는 외국인 관광객이 한국을 찾았습니다.",
+        "vietnamese": "Hàn Quốc là một quốc gia hấp dẫn với những di sản văn hóa phong phú và các địa danh tham quan đa dạng. Rất nhiều khách du lịch nước ngoài tìm đến Hàn Quốc để trải nghiệm các di tích lịch sử, cảnh quan thiên nhiên xinh đẹp và thưởng thức ẩm thực. Trước đại dịch Covid-19, năm 2019 có hơn 17,5 triệu lượt khách quốc tế đến Hàn Quốc."
+      },
+      {
+        "korean": "한국의 역사와 전통문화를 즐길 수 있는 도시로는 경주, 안동, 전주가 있습니다. 경주는 신라의 역사와 문화를 한눈에 볼 수 있을 만큼 다양한 유산이 산재해 있는 곳입니다. 불국사와 석굴암은 한국의 불교문화를 대표하는 사찰입니다. 안동은 한국의 전통적인 건축물과 유교문화를 체험할 수 있는 하회마을, 도산서원 등이 있는 곳입니다. 전주는 한국의 전통 가옥인 한옥이 모여 있는 한옥마을이 있어 한국의 전통 문화와 역사를 체험할 수 있습니다.",
+        "vietnamese": "Các thành phố như 경주, 안동 và 전주 là nơi du khách có thể trải nghiệm lịch sử và văn hóa truyền thống của Hàn Quốc. 경주 có nhiều di sản phong phú thể hiện lịch sử và văn hóa của triều đại 신라. 불국사 và 석굴암 là các ngôi chùa tiêu biểu đại diện cho văn hóa Phật giáo. 안동 sở hữu 하회마을 và 도산서원 để trải nghiệm kiến trúc truyền thống và văn hóa Nho giáo. 전주 có 한옥마을 tập trung các ngôi nhà truyền thống Hanok, giúp trải nghiệm văn hóa và lịch sử truyền thống Hàn Quốc."
+      },
+      {
+        "korean": "아름다운 자연 경관을 즐기기에 좋은 곳으로는 제주도와 설악산이 있습니다. 제주도는 한국에서 가장 큰 섬으로 멋진 해변과 한국에서 가장 높은 한라산의 위엄이 한데 어우러져 독특한 아름다움을 선사합니다. 설악산은 계절에 따라 다양한 모습을 보여 주는 웅장한 산으로 다양한 등산로가 있어 등산객들에게 인기가 있습니다.",
+        "vietnamese": "Đảo 제주 và núi 설악산 là nơi thích hợp để thưởng thức cảnh quan tự nhiên xinh đẹp của Hàn Quốc. 제주 là hòn đảo lớn nhất, với bờ biển tuyệt đẹp và núi 한라산 uy nghiêm – ngọn núi cao nhất Hàn Quốc, tạo nên cảnh quan độc đáo. 설악산 là ngọn núi tráng lệ với cảnh quan thay đổi theo mùa và có nhiều cung đường leo núi, thu hút du khách."
+      },
+      {
+        "korean": "서울, 부산, 대구 등의 대도시에서는 쇼핑, 음식, 한류 문화를 즐길 수 있습니다. 특히 한국의 수도인 서울은 과거와 현대가 공존하는 곳으로, 경복궁, 명동, 남산타워 등이 유명합니다. 바다에 인접한 부산은 맛집 여행으로 인기가 많고, 근대사의 흔적이 남아 있는 대구는 골목을 따라 걷는 근대골목투어가 관광객들로부터 사랑을 받습니다.",
+        "vietnamese": "Ở các thành phố lớn như 서울, 부산, 대구, du khách có thể trải nghiệm mua sắm, ẩm thực và văn hóa Hallyu. Đặc biệt, thủ đô 서울 là nơi quá khứ và hiện đại hòa quyện, nổi tiếng với 경복궁, 명동, 남산타워. 부산 giáp biển nổi tiếng với du lịch ẩm thực, còn 대구 với dấu vết lịch sử cận đại có các tour khám phá ngõ hẻm được du khách yêu thích."
+      }
+    ],
+    "voca": {
+      "관광지": "Địa điểm du lịch",
+      "매력적인 나라": "Một quốc gia hấp dẫn",
+      "문화유산": "Di sản văn hóa",
+      "관광 명소": "Điểm du lịch",
+      "지니다": "Sở hữu",
+      "역사적인": "Mang tính lịch sử",
+      "유적지": "Di tích",
+      "자연 경관": "Cảnh quan thiên nhiên",
+      "코로나19": "Corona (Covid-19)",
+      "유행하다": "Lây lan, lan rộng",
+      "전통문화": "Văn hóa truyền thống",
+      "사찰/절": "Ngôi chùa",
+      "불교문화": "Văn hóa Phật giáo",
+      "유교문화": "Văn hóa Nho giáo",
+      "한국의 전통 가옥인 한옥": "Nhà truyền thống Hanok của Hàn Quốc",
+      "한옥마을": "Làng Hanok",
+      "특색": "Điểm đặc sắc, đặc trưng",
+      "공존하다": "Cùng tồn tại",
+      "근대사": "Lịch sử cận đại",
+      "흔적": "Dấu vết"
+    }
+  }
+]

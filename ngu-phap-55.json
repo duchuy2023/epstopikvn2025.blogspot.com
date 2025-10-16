@@ -1,0 +1,48 @@
+[{
+  "nguphap": "-는/(으)ㄴ 대로",
+  "loai": "Động từ/Tính từ + -는/(으)ㄴ 대로 / Danh từ + 대로",
+  "ynghia": "Được gắn vào **động từ, tính từ** hoặc kết hợp với **danh từ** để diễn đạt ý nghĩa **theo đúng như**, **giống như** hành động hoặc trạng thái đã nêu.",
+  "vidu": [
+    {
+      "cau": "반장님이 하는 대로 따라 하세요.",
+      "nghia": "Hãy làm theo đúng như trưởng nhóm đang làm."
+    },
+    {
+      "cau": "안전 교육 시간에 배운 대로 보호구를 착용하세요.",
+      "nghia": "Hãy đeo đồ bảo hộ theo đúng những gì đã học trong buổi huấn luyện an toàn."
+    },
+    {
+      "cau": "아침 회의 시간에 들은 대로 오늘은 작업할 게 많네요.",
+      "nghia": "Theo những gì nghe trong cuộc họp sáng, hôm nay có nhiều việc phải làm."
+    },
+    {
+      "cau": "설명서대로 만들었어요.",
+      "nghia": "Tôi đã làm theo đúng như hướng dẫn."
+    }
+  ],
+  "luat": "Động từ hiện tại + 는 대로; động từ quá khứ có 받침 + 은 대로, không 받침/받침 ㄹ + ㄴ 대로; tính từ có 받침 + 은 대로, không 받침/받침 ㄹ + ㄴ 대로; danh từ + 대로."
+},
+{
+  "nguphap": "-(으)ㄹ 테니까",
+  "loai": "Động từ/Tính từ + -(으)ㄹ 테니까",
+  "ynghia": "Được gắn vào **động từ hoặc tính từ** để diễn đạt:\n1️⃣ **Ý chí của người nói (ngôi thứ nhất)** đồng thời yêu cầu hoặc nhờ người nghe thực hiện hành động ở mệnh đề sau.\n2️⃣ **Suy đoán của người nói (ngôi thứ ba)** đồng thời yêu cầu hoặc hướng dẫn người nghe thực hiện hành động ở mệnh đề sau.",
+  "vidu": [
+    {
+      "cau": "작업 준비를 하고 있을 테니까 도착하면 연락하세요.",
+      "nghia": "Vì tôi sẽ chuẩn bị công việc, nên khi đến hãy liên lạc nhé."
+    },
+    {
+      "cau": "내가 작업 도구를 정리할 테니까 마두 씨는 작업장을 청소해 주세요.",
+      "nghia": "Tôi sẽ sắp xếp dụng cụ, nên anh Madu hãy dọn dẹp xưởng nhé."
+    },
+    {
+      "cau": "제가 오후에 재고를 파악할 테니까 민민아웅 씨가 창고를 정리해 주세요.",
+      "nghia": "Tôi sẽ kiểm kê hàng tồn vào buổi chiều, nên anh Min Min Aung hãy sắp xếp kho nhé."
+    },
+    {
+      "cau": "비가 올 테니까 우산을 가지고 가세요.",
+      "nghia": "Trời có vẻ sẽ mưa, nên hãy mang theo ô."
+    }
+  ],
+  "luat": "Động từ/Tính từ có 받침 → + 을 테니까 (있다 → 있을 테니까); không 받침/받침 ㄹ → + ㄹ 테니까 (정리하다 → 정리할 테니까). Sử dụng ngôi thứ nhất để diễn tả ý chí, ngôi thứ ba để diễn tả suy đoán, mệnh đề sau là hành động yêu cầu hoặc hướng dẫn người nghe."
+}]

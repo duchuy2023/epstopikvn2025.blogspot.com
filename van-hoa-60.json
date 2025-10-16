@@ -1,0 +1,45 @@
+[
+  {
+    "title": {
+      "korean": "외국인 근로자 관련 보험",
+      "vietnamese": "Bảo hiểm liên quan đến người lao động nước ngoài"
+    },
+    "data": [
+      {
+        "korean": "고용허가제(Employment Permit System)로 입국한 외국인 근로자는 한국의 모든 근로자가 가입 하는 4대 사회보험과 외국인 근로자 전용 보험에 가입해야 합니다.",
+        "vietnamese": "Người lao động nước ngoài nhập cảnh theo chương trình cấp phép lao động phải tham gia vào 4 loại bảo hiểm xã hội dành cho tất cả người lao động ở Hàn Quốc và 4 loại bảo hiểm dành riêng cho người lao động nước ngoài."
+      },
+      {
+        "korean": "나이가 들어 소득이 줄거나 없어졌을 때 국가가 최소한의 소득 보장",
+        "vietnamese": "Nhà nước sẽ đảm bảo thu nhập tối thiểu khi một người già bị giảm thu nhập hoặc thu nhập không còn nữa."
+      },
+      {
+        "korean": "질병이나 부상으로 인해 발생하는 의료비 지원",
+        "vietnamese": "Hỗ trợ chi phí y tế trong trường hợp xảy ra bệnh tật hay tổn thương."
+      },
+      {
+        "korean": "실직 등으로 소득이 일시적으로 없을 때 생활 유지 지원",
+        "vietnamese": "Hỗ trợ duy trì cuộc sống khi không có thu nhập tạm thời do thất nghiệp."
+      },
+      {
+        "korean": "근로 중 발생한 상해나 질병에 대해 국가가 산업재해 근로자와 그 가족의 생활 보장",
+        "vietnamese": "Nhà nước sẽ đảm bảo cuộc sống cho người lao động và gia đình của họ khi người lao động bị ảnh hưởng bởi những tai nạn hoặc bệnh tật phát sinh trong quá trình làm việc."
+      }
+    ],
+    "voca": {
+      "노령 국민연금": "Cao tuổi Bảo hiểm hưu trí",
+      "질병·부상 건강보험": "Bệnh tật, Tổn thương Bảo hiểm sức khỏe",
+      "4대 사회보험": "4 loại bảo hiểm xã hội",
+      "실업 고용보험": "Thất nghiệp Bảo hiểm việc làm",
+      "상해 신재보험": "Tổn thương Bảo hiểm tai nạn lao động",
+      "보험의 종류": "Loại bảo hiểm",
+      "국민연금": "Bảo hiểm hưu trí",
+      "건강보험": "Bảo hiểm sức khỏe",
+      "고용보험": "Bảo hiểm việc làm",
+      "산재보험": "Bảo hiểm tai nạn lao động",
+      "보험의 목적": "Mục đích của bảo hiểm",
+      "가입 주체": "Chủ thể tham gia",
+      "사업주": "Chủ doanh nghiệp"
+    }
+  }
+]

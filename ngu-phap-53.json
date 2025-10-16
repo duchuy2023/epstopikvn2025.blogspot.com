@@ -1,0 +1,40 @@
+[{
+  "nguphap": "-았더니/었더니",
+  "loai": "Động từ + -았더니/었더니",
+  "ynghia": "Được gắn vào **động từ** để diễn tả rằng **hành động mà người nói thực hiện** là **nguyên nhân hoặc bối cảnh** dẫn đến tình huống xảy ra ở mệnh đề sau.",
+  "vidu": [
+    {
+      "cau": "휴게실에 갔더니 반장님이 계셨어요.",
+      "nghia": "Tôi **đi đến phòng nghỉ thì** trưởng nhóm đang ở đó."
+    },
+    {
+      "cau": "동료의 작업을 도와줬더니 밥을 사 줬어요.",
+      "nghia": "Tôi **giúp đồng nghiệp làm việc thì** họ mua cơm cho tôi."
+    },
+    {
+      "cau": "감기약을 먹었더니 졸려요.",
+      "nghia": "Tôi **uống thuốc cảm thì** buồn ngủ."
+    }
+  ],
+  "luat": "Động từ có nguyên âm ㅏ, ㅗ → + 았더니 (가다 → 갔더니); nguyên âm khác → + 었더니 (먹다 → 먹었더니); với 하다 → + 했더니 (전화하다 → 전화했더니). Dùng để chỉ nguyên nhân hoặc bối cảnh dẫn đến mệnh đề sau."
+},
+{
+  "nguphap": "-아/어 있다",
+  "loai": "Động từ tự động + -아/어 있다",
+  "ynghia": "Được gắn vào **động từ tự động** (không có tân ngữ) để chỉ rằng **kết quả của hành động đang được duy trì**, trạng thái tiếp diễn sau khi hành động kết thúc.",
+  "vidu": [
+    {
+      "cau": "재고가 아직 남아 있어요.",
+      "nghia": "Hàng tồn kho vẫn còn."
+    },
+    {
+      "cau": "휴게실 문이 열려 있어요.",
+      "nghia": "Cửa phòng nghỉ đang mở."
+    },
+    {
+      "cau": "작업장에 붙어 있는 금지표지의 의미를 익히세요.",
+      "nghia": "Hãy làm quen với ý nghĩa của bảng cấm được dán trong xưởng."
+    }
+  ],
+  "luat": "Nguyên âm ㅏ, ㅗ → + 아 있다 (남다 → 남아 있다); nguyên âm khác → + 어 있다 (붙다 → 붙어 있다); với 하다 → + 해 있다 (도착하다 → 도착해 있다). Không kết hợp với động từ có tân ngữ (타동사)."
+}]

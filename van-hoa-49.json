@@ -1,0 +1,47 @@
+[
+  {
+    "title": {
+      "korean": "전선 접속 방법",
+      "vietnamese": "Phương pháp nối dây điện"
+    },
+    "data": [
+      {
+        "korean": "전선을 접속할 때는 먼저 안전장갑, 롱노즈 플라이어, 자를 준비합니다.",
+        "vietnamese": "Khi nối dây điện cần chuẩn bị trước găng tay bảo hộ, kìm mũi dài và thước."
+      },
+      {
+        "korean": "전선을 접속하기 전에 안전을 위하여 안전장갑을 착용하고 전원에서 전선을 분리합니다. 전선이 전원에 연결된 상태에서 작업을 하거나 젖은 손으로 작업을 하면 감전 사고가 발생할 수 있기 때문에 위험합니다.",
+        "vietnamese": "Trước khi nối dây điện, hãy đeo găng tay bảo hộ và ngắt dây điện khỏi nguồn điện để đảm bảo an toàn. Nếu thao tác khi dây điện đang kết nối với nguồn điện hoặc bằng tay ướt có thể gây ra tai nạn điện giật, rất nguy hiểm."
+      },
+      {
+        "korean": "그 다음 자를 이용하여 한쪽 전선의 끝부분에서 6cm 정도 되는 위치를 재고, 롱노즈 플라이어를 사용하여 전선 피복을 벗깁니다. 그리고 다른 전선도 동일한 방법으로 피복을 벗깁니다.",
+        "vietnamese": "Tiếp theo, dùng thước đo khoảng 6cm từ đầu dây điện và dùng kìm mũi dài để bóc lớp vỏ dây. Thực hiện tương tự với sợi dây điện còn lại."
+      },
+      {
+        "korean": "다음으로 롱노즈 플라이어를 사용하여 피복을 벗겨낸 두 개의 구리선을 트위스트 방식으로 묶습니다. 두 구리선은 간격이 생기지 않도록 촘촘하게 묶어야 하고, 다 묶은 뒤에 구리선의 끝부분은 롱노즈 플라이어를 사용하여 깔끔하게 고정시켜야 합니다.",
+        "vietnamese": "Sau đó, dùng kìm mũi dài để xoắn hai sợi dây đồng đã bóc vỏ với nhau theo kiểu xoắn (twist). Buộc chặt để không có khoảng trống giữa hai sợi và cố định gọn gàng phần đầu dây bằng kìm mũi dài."
+      }
+    ],
+    "voca": {
+      "전선": "Dây điện, dây dẫn điện",
+      "접속하다": "Nối, kết nối",
+      "안전장갑": "Găng tay bảo hộ",
+      "롱 노즈 플라이어": "Kìm mũi dài",
+      "자": "Thước",
+      "전원": "Nguồn điện",
+      "젖은 손": "Tay ướt",
+      "감전 사고": "Tai nạn điện giật",
+      "발생하다": "Phát sinh",
+      "끝부분": "Phần cuối, đầu mút",
+      "전선 피복": "Vỏ dây điện",
+      "벗기다": "Lột ra, tháo ra",
+      "벗겨내다": "Lột ra, bóc ra (lột lớp vỏ)",
+      "구리선": "Dây đồng",
+      "트위스트": "Xoắn, quấn lại",
+      "묶다": "Buộc",
+      "간격": "Khoảng cách, khoảng trống",
+      "촘촘하다": "Chặt chẽ, sát lại",
+      "깔끔하다": "Gọn gàng, sạch sẽ"
+    }
+  }
+]

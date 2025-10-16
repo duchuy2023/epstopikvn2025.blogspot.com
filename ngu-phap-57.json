@@ -1,0 +1,40 @@
+[{
+  "nguphap": "-는/(으)ㄴ 줄 알았다, 몰랐다",
+  "loai": "Động từ/Tính từ + -는/(으)ㄴ 줄 알았다, 몰랐다",
+  "ynghia": "Được gắn vào **động từ hoặc tính từ** để diễn đạt:\n1️⃣ -는/(으)ㄴ 줄 알았다: nhận ra rằng mình đã **hiểu nhầm một tình huống** so với thực tế.\n2️⃣ -는/(으)ㄴ 줄 몰랐다: nhận ra rằng mình **không nhận biết được** một tình huống thực tế trước đó.",
+  "vidu": [
+    {
+      "cau": "택배 일이 서비스업에 포함되는 줄 몰랐어요.",
+      "nghia": "Tôi không biết rằng công việc giao hàng được xếp vào ngành dịch vụ."
+    },
+    {
+      "cau": "칼로 씨가 조선업을 신청한 줄 알았어요.",
+      "nghia": "Tôi tưởng anh Kallo đã đăng ký ngành đóng tàu."
+    },
+    {
+      "cau": "한국의 여름이 이렇게 더운 줄 몰랐어요.",
+      "nghia": "Tôi không biết mùa hè ở Hàn Quốc nóng đến thế này."
+    }
+  ],
+  "luat": "Gắn vào động từ hoặc tính từ. Hiện tại dùng -는 줄 알았다/몰랐다; quá khứ: 받침 ○ → -은 줄 알았다/몰랐다, 받침 × hoặc 받침 ㄹ → -ㄴ 줄 알았다/몰랐다. Dùng để nhận ra hiểu nhầm hoặc không nhận biết thực tế."
+},
+{
+  "nguphap": "-게 되다",
+  "loai": "Động từ + -게 되다",
+  "ynghia": "Được gắn vào **động từ** để diễn đạt rằng **tình huống hoặc trạng thái thay đổi do yếu tố bên ngoài**, dẫn đến một kết quả nhất định.",
+  "vidu": [
+    {
+      "cau": "디안 씨 옆 방에서 살게 되었어요.",
+      "nghia": "Tôi đã chuyển sang sống ở phòng bên cạnh anh Dian."
+    },
+    {
+      "cau": "프엉 씨하고 같은 회사에서 일하게 되었어요.",
+      "nghia": "Tôi đã làm việc cùng công ty với anh Phuong."
+    },
+    {
+      "cau": "한국에 온 후 한국에 대해 더 많이 알게 되었습니다.",
+      "nghia": "Sau khi đến Hàn Quốc, tôi đã biết nhiều hơn về Hàn Quốc."
+    }
+  ],
+  "luat": "Gắn vào động từ; diễn đạt sự **thay đổi tình huống hoặc trạng thái do tác động bên ngoài** dẫn đến kết quả. Không dùng với tính từ."
+}]

@@ -1,0 +1,44 @@
+[{
+  "nguphap": "-(으)ㄴ 적이 있다/없다",
+  "loai": "Động từ + -(으)ㄴ 적이 있다/없다",
+  "ynghia": "Được gắn vào **động từ** để diễn đạt việc **đã từng** hoặc **chưa từng** có kinh nghiệm làm một việc nào đó trong quá khứ.",
+  "vidu": [
+    {
+      "cau": "떡볶이를 먹어 본 적이 없어요.",
+      "nghia": "Tôi chưa từng ăn tokbokki."
+    },
+    {
+      "cau": "고향에서 닭을 키운 적이 있어요.",
+      "nghia": "Tôi đã từng nuôi gà ở quê."
+    },
+    {
+      "cau": "양우 농가에서 일해 본 적이 있어요.",
+      "nghia": "Tôi đã từng làm việc tại trang trại Yangwoo."
+    }
+  ],
+  "luat": "Động từ có patchim + 은 적이 있다/없다 (먹다 → 먹은 적이 있다/없다); không patchim hoặc patchim ㄹ → ㄴ 적이 있다/없다 (가다 → 간 적이 있다/없다, 만들다 → 만든 적이 있다/없다)."
+},
+{
+  "nguphap": "-게 하다",
+  "loai": "Động từ/Tính từ + -게 하다",
+  "ynghia": "🔹Khi gắn vào **tính từ**, diễn đạt việc **làm cho trở nên** trong trạng thái nào đó.\n🔹Khi gắn vào **động từ**, diễn đạt việc **khiến/cho phép ai đó** làm một việc nào đó.",
+  "vidu": [
+    {
+      "cau": "도서관에서 시끄럽게 하면 안 돼요.",
+      "nghia": "Không được làm ồn trong thư viện."
+    },
+    {
+      "cau": "소가 시원한 물을 자주 마시게 하세요.",
+      "nghia": "Hãy cho bò uống nước mát thường xuyên."
+    },
+    {
+      "cau": "아지자 씨가 다린두 씨에게 상자를 옮기게 했어요.",
+      "nghia": "Chị Ajija đã bảo anh Darindu chuyển thùng."
+    },
+    {
+      "cau": "아궁 씨가 마두 씨에게 공구를 가져오게 했어요.",
+      "nghia": "Anh Agung đã bảo anh Madhu mang dụng cụ đến."
+    }
+  ],
+  "luat": "Tính từ/Động từ + -게 하다 (không phụ thuộc patchim). Với tính từ → làm cho ở trạng thái nào đó (조용하다 → 조용하게 하다). Với động từ → khiến hoặc cho phép ai đó làm việc gì (가다 → 가게 하다)."
+}]

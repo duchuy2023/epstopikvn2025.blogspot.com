@@ -1,0 +1,40 @@
+[{
+  "nguphap": "-는 바람에",
+  "loai": "Động từ + -는 바람에",
+  "ynghia": "Được gắn vào **động từ** để diễn đạt rằng **nội dung ở mệnh đề trước là lý do hoặc nguyên nhân dẫn đến kết quả bất ngờ hoặc tiêu cực**.",
+  "vidu": [
+    {
+      "cau": "안전화를 안 신는 바람에 바닥에 미끌러졌어요.",
+      "nghia": "Vì không đi giày bảo hộ nên tôi đã trượt trên sàn."
+    },
+    {
+      "cau": "비가 너무 많이 오는 바람에 오후 작업을 못 했어요.",
+      "nghia": "Vì trời mưa quá nhiều nên không thể làm việc vào buổi chiều."
+    },
+    {
+      "cau": "감기에 걸리는 바람에 못 갔어요.",
+      "nghia": "Vì bị cảm lạnh nên không đi được."
+    }
+  ],
+  "luat": "Động từ + -는 바람에; dùng để **chỉ ra nguyên nhân dẫn đến kết quả bất ngờ hoặc tiêu cực**, thường mang nghĩa tiêu cực hoặc không mong muốn."
+},
+{
+  "nguphap": "-(으)려면",
+  "loai": "Động từ + -(으)려면",
+  "ynghia": "Được gắn vào **động từ** để diễn đạt rằng **nếu muốn thực hiện hành động ở mệnh đề trước hoặc mong muốn tình huống đó xảy ra, thì hành động ở mệnh đề sau là cần thiết**.",
+  "vidu": [
+    {
+      "cau": "점심을 먹으려면 구내식당으로 가면 돼요.",
+      "nghia": "Nếu muốn ăn trưa thì đi tới căng tin là được."
+    },
+    {
+      "cau": "쉽게 잡초를 없애려면 예초기를 사용하세요.",
+      "nghia": "Nếu muốn diệt cỏ dại dễ dàng thì hãy dùng máy cắt cỏ."
+    },
+    {
+      "cau": "불고기를 만들려면 고기와 채소를 사야 돼요.",
+      "nghia": "Nếu muốn làm bulgogi thì phải mua thịt và rau."
+    }
+  ],
+  "luat": "Động từ + -(으)려면; dùng để chỉ **điều kiện cần cho việc thực hiện hành động ở mệnh đề trước**, mệnh đề sau thường diễn tả hành động bắt buộc hoặc điều kiện để thực hiện."
+}]

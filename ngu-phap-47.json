@@ -1,0 +1,48 @@
+[{
+  "nguphap": "-는 동안(에)",
+  "loai": "Động từ + -는 동안(에) / Danh từ chỉ thời gian + 동안(에)",
+  "ynghia": "Được gắn vào **động từ** để diễn đạt **trong suốt thời gian** một hành động nào đó đang tiếp diễn, một hành động khác cũng xảy ra.\nKhi dùng với **danh từ chỉ thời gian**, diễn đạt trong suốt khoảng thời gian đó.",
+  "vidu": [
+    {
+      "cau": "기계가 작동하는 동안(에) 소음이 발생할 수 있어요.",
+      "nghia": "Trong lúc máy đang hoạt động có thể phát ra tiếng ồn."
+    },
+    {
+      "cau": "내가 밧줄을 끌어올리는 동안(에) 다른 어구들을 정리해 주세요.",
+      "nghia": "Trong lúc tôi kéo dây thừng lên, hãy sắp xếp các ngư cụ khác giúp nhé."
+    },
+    {
+      "cau": "그물을 세척하는 동안(에) 푸캄 씨는 창고에 가서 밧줄 좀 가져오세요.",
+      "nghia": "Trong khi rửa lưới, anh Phukham hãy đi kho lấy ít dây thừng nhé."
+    },
+    {
+      "cau": "일주일 동안 작업 교육을 받았어요.",
+      "nghia": "Tôi đã tham gia đào tạo công việc trong suốt một tuần."
+    }
+  ],
+  "luat": "🔹Động từ: dạng **-는 동안(에)** (가다 → 가는 동안(에)). Có thể lược bỏ ‘에’. \n🔹Danh từ chỉ thời gian + 동안(에): dùng trực tiếp (하루 동안, 일주일 동안...)."
+},
+{
+  "nguphap": "-기로 하다",
+  "loai": "Động từ + -기로 하다",
+  "ynghia": "Được gắn vào **động từ** để diễn đạt **quyết định, kế hoạch, sự hứa hẹn hoặc cam kết** thực hiện một hành động nào đó.\nThường được dùng để nói về quyết định của người nói hoặc quyết định đã được thống nhất với người khác.",
+  "vidu": [
+    {
+      "cau": "제가 수조를 청소하기로 했어요.",
+      "nghia": "Tôi đã quyết định sẽ dọn bể chứa."
+    },
+    {
+      "cau": "다음 주에 펌프를 설치하기로 했습니다.",
+      "nghia": "Chúng tôi đã quyết định lắp đặt máy bơm vào tuần sau."
+    },
+    {
+      "cau": "오늘 산소 공급기를 점검하기로 했습니다.",
+      "nghia": "Hôm nay đã quyết định kiểm tra máy cung cấp oxy."
+    },
+    {
+      "cau": "친구와 함께 여행을 가기로 했어요.",
+      "nghia": "Tôi đã hẹn sẽ đi du lịch cùng bạn."
+    }
+  ],
+  "luat": "🔹Gắn trực tiếp với **gốc động từ** (가다 → 가기로 하다, 하다 → 하기로 하다).\n🔹Có thể chia thì cho 하다 (했어요, 합니다...) để diễn đạt quyết định trong quá khứ, hiện tại hoặc tương lai."
+}]

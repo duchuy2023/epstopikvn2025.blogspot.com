@@ -1,0 +1,44 @@
+[{
+  "nguphap": "뿐만 아니라",
+  "loai": "Danh từ + 뿐만 아니라; Động từ/Tính từ + -(으)ㄹ 뿐만 아니라",
+  "ynghia": "Kết hợp với **danh từ** để diễn đạt rằng điều nói trước không bị giới hạn, và còn có thêm điều khác. Khi dùng với **động từ hoặc tính từ**, thêm ‘-(으)ㄹ’ trước ‘뿐만 아니라’.",
+  "vidu": [
+    {
+      "cau": "표준근로계약서를 쓸 때 임금뿐만 아니라 업무 내용도 잘 확인해야 돼요.",
+      "nghia": "Khi viết hợp đồng lao động chuẩn, không chỉ tiền lương mà cả nội dung công việc cũng phải kiểm tra kỹ."
+    },
+    {
+      "cau": "저는 호텔에서뿐만 아니라 자동차 부품 공장에서도 일한 적이 있어요.",
+      "nghia": "Tôi từng làm việc không chỉ ở khách sạn mà còn ở nhà máy linh kiện ô tô."
+    },
+    {
+      "cau": "외국인 근로자들은 제조업뿐만 아니라 건설업, 농·축산업 등 다양한 업종에서 일하고 있어요.",
+      "nghia": "Người lao động nước ngoài làm việc không chỉ trong ngành sản xuất mà còn trong xây dựng, nông-lâm-ngư nghiệp và nhiều ngành khác."
+    },
+    {
+      "cau": "우리 회사 기숙사는 시설이 좋을 뿐만 아니라 깨끗해요.",
+      "nghia": "Ký túc xá của công ty chúng tôi không chỉ có cơ sở vật chất tốt mà còn sạch sẽ."
+    }
+  ],
+  "luat": "Danh từ + 뿐만 아니라: bổ sung thêm thông tin ngoài danh từ đã nêu; Động từ/Tính từ + -(으)ㄹ 뿐만 아니라: bổ sung thông tin ngoài hành động hoặc trạng thái đã nêu."
+},
+{
+  "nguphap": "-(으)면 좋겠다",
+  "loai": "Động từ/Tính từ + -(으)면 좋겠다",
+  "ynghia": "Được gắn vào **động từ hoặc tính từ** để diễn đạt **mong muốn, ước gì điều gì đó xảy ra hoặc đạt được trạng thái nào đó**.",
+  "vidu": [
+    {
+      "cau": "이번 주말에는 휴일 근무가 없으면 좋겠어요.",
+      "nghia": "Ước gì cuối tuần này không phải làm việc vào ngày nghỉ."
+    },
+    {
+      "cau": "한국 회사에 취업하면 좋겠어요.",
+      "nghia": "Mong muốn được làm việc ở công ty Hàn Quốc."
+    },
+    {
+      "cau": "다라 씨는 올해 소원이 뭐예요? 저는 돈을 많이 벌면 좋겠어요.",
+      "nghia": "Dara, điều ước của bạn năm nay là gì? Tôi mong muốn kiếm được nhiều tiền."
+    }
+  ],
+  "luat": "Động từ/Tính từ có 받침 → -으면 좋겠다 (다듬다 → 다듬으면 좋겠다); Không có 받침 hoặc 받침 là ㄹ → -면 좋겠다 (고치다 → 고치면 좋겠다)."
+}]

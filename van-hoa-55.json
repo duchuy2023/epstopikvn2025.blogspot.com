@@ -1,0 +1,50 @@
+[
+  {
+    "title": {
+      "korean": "지시 표지(강제행동 표지)",
+      "vietnamese": "Biển báo chỉ dẫn (biển báo hành động bắt buộc)"
+    },
+    "data": [
+      {
+        "korean": "산업표준심의회의 KS S ISO 7010:2019를 따라 제시하였습니다.",
+        "vietnamese": "Được trình bày theo tiêu chuẩn KS S ISO 7010:2019 của Hội đồng tiêu chuẩn công nghiệp."
+      },
+      {
+        "korean": "일반적인 강제 행동 표지는 특정 행동을 해야 한다는 것을 알리기 위해 사용하는 표지입니다.",
+        "vietnamese": "Biển báo hành động bắt buộc chung: biển báo sử dụng để thông báo về những hành động phải làm."
+      }
+    ],
+    "voca": {
+      "사용설명서/책자를 참조하시오": "Hãy tham khảo sách/ hướng dẫn sử dụng",
+      "귀마개(청각 보호기)를 착용하시오": "Hãy sử dụng bịt tai (dụng cụ bảo vệ thính giác)",
+      "보안경(눈 보호기)을 착용하시오": "Hãy sử dụng kính bảo hộ (bảo vệ mắt)",
+      "전기 플러그를 콘센트에서 분리하시오": "Hãy rút phích cắm khỏi ổ cắm điện",
+      "불투명 보안대를 반드시 착용하시오": "Hãy sử dụng kính mờ hoặc kính bảo hộ",
+      "안전화을 착용하시오": "Hãy đi ủng bảo hộ",
+      "보호 장갑을 착용하시오": "Hãy đeo găng tay bảo hộ",
+      "방호복을 착용하시오": "Hãy mặc quần áo bảo hộ",
+      "손을 씻으시오": "Hãy rửa tay",
+      "손잡이를 사용하시오": "Hãy sử dụng tay cầm",
+      "얼굴 보호구를 착용하시오": "Hãy sử dụng đồ bảo hộ gương mặt",
+      "가시성이 높은 옷(반사 조끼)을 착용하시오": "Hãy mặc áo phản quang để có thể nhìn thấy từ xa",
+      "머리 보호구를 착용하시오": "Hãy sử dụng đồ bảo hộ đầu",
+      "마스크를 착용하시오": "Hãy sử dụng khẩu trang",
+      "호흡기 보호 장치를 착용하시오": "Hãy sử dụng trang bị bảo vệ hô hấp",
+      "안전띠를 착용하시오": "Hãy sử dụng dây đai bảo hộ",
+      "용접 마스크를 착용하시오": "Hãy sử dụng mặt nạ hàn",
+      "안전벨트를 착용하시오": "Hãy thắt dây an toàn",
+      "이 통로를 이용하시오": "Hãy sử dụng lối đi này",
+      "보호용 앞치마를 착용하시오": "Hãy sử dụng tạp dề bảo hộ",
+      "잠그시오": "Hãy khóa",
+      "경적을 울리시오": "Hãy bấm còi cảnh báo để ra tín hiệu",
+      "쓰레기통을 사용하시오": "Hãy sử dụng thùng rác",
+      "안전모 착용": "Bắt buộc đội mũ bảo hộ",
+      "보호안경 착용": "Bắt buộc đeo kính bảo hộ",
+      "안전화 착용": "Bắt buộc mang giày bảo hộ",
+      "귀마개 착용": "Bắt buộc đeo nút tai",
+      "안전벨트 착용": "Bắt buộc thắt dây an toàn",
+      "호흡 보호구 착용": "Bắt buộc đeo mặt nạ phòng độc / khẩu trang bảo hộ",
+      "장갑 착용": "Bắt buộc đeo găng tay"
+    }
+  }
+]

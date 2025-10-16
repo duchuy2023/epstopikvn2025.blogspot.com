@@ -1,0 +1,40 @@
+[{
+  "nguphap": "-던",
+  "loai": "Động từ/Tính từ + -던 + Danh từ",
+  "ynghia": "Được gắn vào **động từ hoặc tính từ** để bổ nghĩa cho danh từ, diễn tả việc **hồi tưởng** về một sự việc hoặc trạng thái trong quá khứ.\n🔹Động từ: Chỉ hành động trong quá khứ **chưa hoàn tất** hoặc đang diễn ra lúc đó.\n🔹Tính từ: Chỉ trạng thái trong quá khứ đã từng tồn tại.",
+  "vidu": [
+    {
+      "cau": "작업대 위에 있던 플라이어가 안 보여요.",
+      "nghia": "Không thấy cái kìm từng để trên bàn làm việc."
+    },
+    {
+      "cau": "새 기계는 전에 쓰던 것보다 작동이 잘 돼요.",
+      "nghia": "Máy mới hoạt động tốt hơn cái từng dùng trước đây."
+    },
+    {
+      "cau": "사장님이 부르셔서 하던 일을 멈추고 사무실로 갔어요.",
+      "nghia": "Vì giám đốc gọi nên tôi dừng công việc đang làm và đi đến văn phòng."
+    }
+  ],
+  "luat": "🔹Động từ/Tính từ gắn trực tiếp **-던** vào gốc (쓰다 → 쓰던, 있다 → 있던, 하다 → 하던)."
+},
+{
+  "nguphap": "-느라고",
+  "loai": "Động từ + -느라고",
+  "ynghia": "Được gắn vào **động từ** để diễn tả rằng **hành động ở mệnh đề trước là nguyên nhân hoặc lý do dẫn đến kết quả tiêu cực** ở mệnh đề sau.",
+  "vidu": [
+    {
+      "cau": "작업장을 정리하느라고 조금 늦게 퇴근했어요.",
+      "nghia": "Vì dọn dẹp xưởng mà tôi tan ca hơi muộn."
+    },
+    {
+      "cau": "오전에는 장비를 고치느라고 다른 일을 못 했어요.",
+      "nghia": "Sáng nay vì sửa thiết bị nên không làm được việc khác."
+    },
+    {
+      "cau": "아지자 씨는 밭에서 잡초를 뽑느라고 바쁜 것 같아요.",
+      "nghia": "Anh Ajiza có vẻ bận vì nhổ cỏ trên ruộng."
+    }
+  ],
+  "luat": "Động từ + -느라고: dùng khi mệnh đề trước là nguyên nhân hoặc lý do cho kết quả tiêu cực trong mệnh đề sau."
+}]

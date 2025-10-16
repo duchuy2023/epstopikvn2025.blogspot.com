@@ -1,0 +1,79 @@
+[
+  {
+    "title": {
+      "korean": "대피로 표지",
+      "vietnamese": "Biển báo thoát hiểm"
+    },
+    "data": [
+      {
+        "korean": "비상구(왼쪽) 사고가 났을 때 밖으로 나갈 수 있는 문",
+        "vietnamese": "Cửa thoát hiểm (bên trái): là cửa có thể chạy ra bên ngoài khi xảy ra sự cố."
+      },
+      {
+        "korean": "비상구(오른쪽) 사고가 났을 때 밖으로 나갈 수 있는 문",
+        "vietnamese": "Cửa thoát hiểm (bên phải): là cửa có thể chạy ra bên ngoài khi xảy ra sự cố."
+      },
+      {
+        "korean": "탈출 사다리가 있는 비상 창문",
+        "vietnamese": "Cửa sổ có thang thoát hiểm"
+      },
+      {
+        "korean": "구조 창문 건물 안에 있는 사람을 구조하기 위해 구조대가 접근할 수 있도록 만든 창문",
+        "vietnamese": "Cửa sổ cứu hộ: là cửa sổ được làm ra để nhân viên cứu hộ có thể tiếp cận và cứu người ở trong tòa nhà."
+      },
+      {
+        "korean": "시계 반대 방향으로 돌리면 열림",
+        "vietnamese": "Mở khi quay ngược chiều kim đồng hồ"
+      },
+      {
+        "korean": "시계 방향으로 돌리면 열림",
+        "vietnamese": "Mở khi quay theo chiều kim đồng hồ"
+      },
+      {
+        "korean": "왼쪽으로 밀면 열리는 문",
+        "vietnamese": "Cửa mở bằng cách đẩy sang bên trái"
+      },
+      {
+        "korean": "오른쪽으로 밀면 열리는 문",
+        "vietnamese": "Cửa mở bằng cách đẩy sang bên phải"
+      },
+      {
+        "korean": "오른쪽으로 미끄러져 열리는 문/오른쪽 미닫이 문",
+        "vietnamese": "Cửa mở bằng cách trượt sang phải"
+      },
+      {
+        "korean": "왼쪽으로 미끄러져 열리는 문/왼쪽 미닫이 문",
+        "vietnamese": "Cửa mở bằng cách trượt sang trái"
+      },
+      {
+        "korean": "왼쪽을 당기면 열리는 문",
+        "vietnamese": "Cửa mở bằng cách kéo sang trái"
+      },
+      {
+        "korean": "오른쪽으로 당기면 열리는 문",
+        "vietnamese": "Cửa mở bằng cách kéo sang phải"
+      },
+      {
+        "korean": "비상 망치 유리창을 깨고 밖으로 나갈 때 사용하는 망치",
+        "vietnamese": "Búa thoát hiểm: là búa sử dụng để làm vỡ cửa kính rồi thoát ra bên ngoài"
+      },
+      {
+        "korean": "탈출 사다리 위험할 때 밖으로 나갈 수 있는 사다리",
+        "vietnamese": "Thang thoát hiểm: là thang giúp thoát ra bên ngoài khi gặp nguy hiểm"
+      }
+    ],
+    "voca": {
+      "대피로": "Lối thoát hiểm",
+      "비상구": "Cửa thoát hiểm",
+      "대피로 표지판": "Biển báo lối thoát hiểm",
+      "비상계단": "Cầu thang thoát hiểm",
+      "출구": "Lối ra",
+      "비상출입문": "Cửa ra khẩn cấp",
+      "안전 표지판": "Biển báo an toàn",
+      "비상등": "Đèn khẩn cấp",
+      "화재 대피로": "Lối thoát hiểm khi có hỏa hoạn",
+      "안전통로": "Lối đi an toàn",
+      "피난로": "Đường lánh nạn, đường thoát nạn"
+    }
+  }
+]

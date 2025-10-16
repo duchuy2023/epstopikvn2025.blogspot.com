@@ -1,0 +1,48 @@
+[{
+  "nguphap": "-아지다/어지다",
+  "loai": "Động từ/Tính từ + -아지다/어지다",
+  "ynghia": "Được gắn vào **động từ** hoặc **tính từ** để diễn đạt hai ý nghĩa:\n1️⃣ Với **động từ**: Chỉ hành động xảy ra **một cách tự nhiên** hoặc do **tác động bên ngoài**, tương đương với thể **bị động** trong tiếng Việt.\n2️⃣ Với **tính từ**: Chỉ sự **thay đổi trạng thái dần dần**, trở nên… hơn.",
+  "vidu": [
+    {
+      "cau": "기름 얼룩은 잘 지워지지 않습니다.",
+      "nghia": "Vết dầu khó bị xóa đi."
+    },
+    {
+      "cau": "선반 주문이 늘어서 야간작업이 많아졌어요.",
+      "nghia": "Do đơn đặt hàng kệ tăng lên nên ca làm đêm đã nhiều hơn."
+    },
+    {
+      "cau": "제품 출고 시기가 되면 더 바빠질 거예요.",
+      "nghia": "Đến thời điểm xuất kho sản phẩm sẽ trở nên bận rộn hơn."
+    },
+    {
+      "cau": "이제 한국 생활에 익숙해졌어요.",
+      "nghia": "Bây giờ tôi đã quen với cuộc sống ở Hàn Quốc."
+    }
+  ],
+  "luat": "🔹Nếu **gốc từ có nguyên âm ㅏ hoặc ㅗ** → + 아지다 (많다 → 많아지다).\n🔹Nếu **gốc từ có nguyên âm khác** → + 어지다 (길다 → 길어지다).\n🔹Với **하다** → + 해지다 (깨끗하다 → 깨끗해지다).\n🔹Động từ + 어/아지다 mang nghĩa **bị động** (지우다 → 지워지다)."
+},
+{
+  "nguphap": "-는/(으)ㄴ 덕분에",
+  "loai": "Động từ + -는/(으)ㄴ 덕분에 | Danh từ + 덕분에",
+  "ynghia": "Được gắn vào **động từ** để chỉ **nguyên nhân tích cực**, nhờ vào việc gì đó mà có kết quả tốt.\n🔹Hiện tại: **-는 덕분에** → nhờ việc đang diễn ra.\n🔹Quá khứ: **-(으)ㄴ 덕분에** → nhờ việc đã xảy ra.\nNgoài ra có thể kết hợp trực tiếp với **danh từ + 덕분에** để nói nhờ vào (ai/cái gì).",
+  "vidu": [
+    {
+      "cau": "한국어를 잘하는 덕분에 한국 생활이 편해요.",
+      "nghia": "Nhờ giỏi tiếng Hàn nên cuộc sống ở Hàn Quốc thoải mái."
+    },
+    {
+      "cau": "비계를 튼튼하게 설치한 덕분에 안전하게 작업할 수 있습니다.",
+      "nghia": "Nhờ lắp giàn giáo chắc chắn nên có thể làm việc an toàn."
+    },
+    {
+      "cau": "수평을 잘 맞춘 덕분에 발판이 튼튼하게 설치되었습니다.",
+      "nghia": "Nhờ cân bằng tốt nên bục đã được lắp chắc chắn."
+    },
+    {
+      "cau": "경험이 많은 작업자들 덕분에 일이 빨리 끝났습니다.",
+      "nghia": "Nhờ các công nhân nhiều kinh nghiệm nên công việc đã kết thúc nhanh."
+    }
+  ],
+  "luat": "🔹Động từ hiện tại + **-는 덕분에** (잘하다 → 잘하는 덕분에).\n🔹Động từ quá khứ có 받침 + **-은 덕분에** (잡다 → 잡은 덕분에).\n🔹Động từ quá khứ không 받침 hoặc 받침 ㄹ + **-ㄴ 덕분에** (배우다 → 배운 덕분에, 만들다 → 만든 덕분에).\n🔹Danh từ + **덕분에** (경험 덕분에)."
+}]

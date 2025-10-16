@@ -1,0 +1,56 @@
+[{
+  "nguphap": "-도록 하다",
+  "loai": "Động từ + -도록 하다",
+  "ynghia": "Được gắn vào **động từ** để chỉ rằng **bắt người khác thực hiện hành động nào đó**. Khi diễn đạt nội dung phủ định, sử dụng dạng ‘-지 않도록 하다’ để yêu cầu người khác **không làm** điều gì.",
+  "vidu": [
+    {
+      "cau": "작업을 할 때는 개인 보호구를 착용하도록 하세요.",
+      "nghia": "Khi làm việc, hãy đảm bảo mặc đồ bảo hộ cá nhân."
+    },
+    {
+      "cau": "10일까지 휴가를 신청하도록 하세요.",
+      "nghia": "Hãy nộp đơn xin nghỉ phép trước ngày 10."
+    },
+    {
+      "cau": "안전 규칙을 지키도록 하세요.",
+      "nghia": "Hãy tuân thủ các quy tắc an toàn."
+    },
+    {
+      "cau": "이곳에는 들어가지 않도록 하세요.",
+      "nghia": "Hãy không đi vào chỗ này."
+    },
+    {
+      "cau": "출근 시간에 늦지 않도록 하세요.",
+      "nghia": "Hãy không đến muộn giờ đi làm."
+    }
+  ],
+  "luat": "Động từ + -도록 하다 → khiến người khác thực hiện hành động. Khi muốn yêu cầu **không làm** hành động, dùng Động từ + -지 않도록 하다."
+},
+{
+  "nguphap": "-기 위해",
+  "loai": "Động từ + -기 위해 / Danh từ + 을/를 위해",
+  "ynghia": "Được gắn vào **động từ** hoặc kết hợp với **danh từ** để diễn đạt **mục đích của hành động** phía sau.",
+  "vidu": [
+    {
+      "cau": "돈을 벌기 위해 한국에 가려고 해요.",
+      "nghia": "Tôi định sang Hàn Quốc để kiếm tiền."
+    },
+    {
+      "cau": "음식을 만들기 위해 장을 봤어요.",
+      "nghia": "Tôi đi chợ để chuẩn bị nấu ăn."
+    },
+    {
+      "cau": "혼합 작업을 하기 위해 기계를 켰어요.",
+      "nghia": "Tôi bật máy để thực hiện công việc trộn."
+    },
+    {
+      "cau": "부모님의 건강을 위해 인삼을 사 드렸어요.",
+      "nghia": "Tôi mua nhân sâm cho bố mẹ vì sức khỏe của họ."
+    },
+    {
+      "cau": "아버지는 가족을 위해 일하십니다.",
+      "nghia": "Bố làm việc vì gia đình."
+    }
+  ],
+  "luat": "Động từ + -기 위해 → để thực hiện mục đích của hành động. Danh từ + 을/를 위해 → để cho mục đích liên quan đến danh từ đó."
+}]

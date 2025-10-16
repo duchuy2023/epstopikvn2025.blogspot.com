@@ -1,0 +1,44 @@
+[{
+  "nguphap": "-았다가/었다가",
+  "loai": "Động từ + -았다가/었다가",
+  "ynghia": "Được gắn vào **động từ** để diễn tả rằng sau khi một hành động kết thúc, hành động khác xảy ra ngay sau đó.",
+  "vidu": [
+    {
+      "cau": "아시아마트에 갔다가 우연히 고향 사람을 만났어요.",
+      "nghia": "Tôi đã đi chợ Asia Mart rồi tình cờ gặp người quen ở quê."
+    },
+    {
+      "cau": "추워서 점퍼를 입었다가 더워서 다시 벗었어요.",
+      "nghia": "Vì trời lạnh nên tôi đã mặc áo khoác rồi vì nóng lại cởi ra."
+    },
+    {
+      "cau": "다라 씨와 만날 약속을 했다가 급한 일이 있어서 취소했어요.",
+      "nghia": "Tôi đã hẹn gặp anh Dara nhưng vì có việc gấp nên đã hủy."
+    }
+  ],
+  "luat": "Động từ có nguyên âm ㅏ, ㅗ → + -았다가 (오다 → 왔다가); nguyên âm khác → + -었다가 (마시다 → 마셨다가); với 하다 → + -했다가 (약속하다 → 약속했다가)."
+},
+{
+  "nguphap": "반말",
+  "loai": "Ngôn ngữ không kính trọng (phi trang trọng) dùng trong giao tiếp thân thiết hoặc với người nhỏ tuổi/hạ cấp",
+  "ynghia": "반말 được sử dụng trong các tình huống phi chính thức, thường dành cho người quen thân hoặc người có địa vị thấp hơn mà không có ý định tôn kính. Nó thường được phân biệt qua các **trợ từ kết thúc câu** như -아/어, -느냐/(으)냐, -니/(으)니, -자, -아/어(라). Khi dùng với danh từ, 형태 이에요/예요 sẽ trở thành (이)야.",
+  "vidu": [
+    {
+      "cau": "시트를 새것으로 교체해.",
+      "nghia": "Hãy thay tấm lót bằng cái mới."
+    },
+    {
+      "cau": "매일 자전거를 타고 회사에 가니?",
+      "nghia": "Hàng ngày cậu đi làm bằng xe đạp à?"
+    },
+    {
+      "cau": "명절에는 우리집에 모여서 같이 음식을 만들자.",
+      "nghia": "Trong dịp lễ, chúng ta cùng tập trung ở nhà tôi và làm đồ ăn nhé."
+    },
+    {
+      "cau": "여기는 비품실이야. 이건 대걸레야.",
+      "nghia": "Đây là phòng dụng cụ. Cái này là cây lau sàn."
+    }
+  ],
+  "luat": "반말 được sử dụng khi nói với người thân thiết hoặc người dưới, không có ý tôn trọng. Các kết thúc câu thông dụng: 평서문 -아/어, 청유문 -아/어, -자, 의문문 -아/어, -느냐/(으)냐, -니/(으)니, 명령문 -아/어(라). Với danh từ, (이)야 thay cho 이에요/예요."
+}]

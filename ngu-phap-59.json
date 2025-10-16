@@ -1,0 +1,40 @@
+[{
+  "nguphap": "-더라도",
+  "loai": "Động từ/Tính từ + -더라도",
+  "ynghia": "Được gắn vào **động từ hoặc tính từ** để diễn tả rằng **dù tình huống giả định ở mệnh đề trước xảy ra thì nội dung mệnh đề sau vẫn được thực hiện, bất chấp kỳ vọng từ mệnh đề trước**.",
+  "vidu": [
+    {
+      "cau": "작업장이 덥더라도 안전모를 꼭 쓰세요.",
+      "nghia": "Dù xưởng có nóng đi nữa, hãy luôn đội mũ bảo hộ."
+    },
+    {
+      "cau": "서로 의견이 다르더라도 상대방을 존중해야 해요.",
+      "nghia": "Dù ý kiến của nhau khác nhau, vẫn phải tôn trọng đối phương."
+    },
+    {
+      "cau": "출입국 · 외국인사무소에 신청서를 접수하더라도 외국인 등록증을 바로 받을 수 없어요.",
+      "nghia": "Dù nộp đơn tại cơ quan xuất nhập cảnh hay văn phòng người nước ngoài, cũng không thể nhận ngay thẻ đăng ký người nước ngoài."
+    }
+  ],
+  "luat": "Gắn vào **động từ hoặc tính từ**: nguyên dạng động từ + -더라도; biểu thị **tình huống giả định nhưng mệnh đề sau vẫn xảy ra**."
+},
+{
+  "nguphap": "-는지/(으)ㄴ지",
+  "loai": "Động từ/Tính từ + -는지/(으)ㄴ지",
+  "ynghia": "Được gắn vào **động từ hoặc tính từ** để diễn đạt rằng **mặc dù nội dung ở mệnh đề trước không chắc chắn, nhưng nó trở thành căn cứ hoặc lý do cho mệnh đề sau**.",
+  "vidu": [
+    {
+      "cau": "아궁 씨가 지금 일하는지 전화를 안 받네요.",
+      "nghia": "Tôi không thể gọi được vì không chắc anh Agung có đang làm việc hay không."
+    },
+    {
+      "cau": "자하라 씨가 기분이 좋은지 표정이 밝아요.",
+      "nghia": "Biểu hiện tươi sáng cho thấy không biết chị Zahara có đang vui hay không."
+    },
+    {
+      "cau": "아궁 씨가 일을 금방 배우네요. 그렇지요? 동티모르에서도 같은 일을 한 경험이 있는지 잘하네요.",
+      "nghia": "Anh Agung học việc nhanh nhỉ. Đúng không? Có lẽ anh ấy từng làm công việc tương tự ở Đông Timor nên giỏi."
+    }
+  ],
+  "luat": "Động từ/Tính từ + -는지 (hiện tại, 동사 có 있다/없다) hoặc -은지/-ㄴ지 (quá khứ, 형용사 hoặc 동사 khác); dùng để **thể hiện sự không chắc chắn ở mệnh đề trước nhưng dẫn đến lý do hoặc căn cứ cho mệnh đề sau**."
+}]

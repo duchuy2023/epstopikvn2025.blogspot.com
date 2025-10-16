@@ -1,0 +1,44 @@
+[{
+  "nguphap": "-다가",
+  "loai": "Động từ/Tính từ + -다가",
+  "ynghia": "Được gắn vào **động từ hoặc tính từ** để diễn tả rằng **một hành động hoặc trạng thái đang diễn ra bị gián đoạn và chuyển sang hành động hoặc trạng thái khác**, hoặc **một tình huống xuất hiện trong khi một tình huống khác đang xảy ra**.",
+  "vidu": [
+    {
+      "cau": "삽으로 땅을 파다가 잠시 쉬고 있어요.",
+      "nghia": "Tôi đang đào đất bằng xẻng thì tạm nghỉ một chút."
+    },
+    {
+      "cau": "점심을 먹다가 다라 씨 전화를 받았어요.",
+      "nghia": "Đang ăn trưa thì nhận được điện thoại của anh Dara."
+    },
+    {
+      "cau": "야근을 하다가 저녁을 먹었어요.",
+      "nghia": "Đang làm thêm giờ thì ăn tối."
+    }
+  ],
+  "luat": "Động từ/Tính từ + -다가: dùng khi hành động/trạng thái đang diễn ra bị gián đoạn hoặc khi một tình huống xảy ra trong khi tình huống khác đang diễn ra."
+},
+{
+  "nguphap": "간접 인용의 축약형",
+  "loai": "Cấu trúc gián tiếp rút gọn",
+  "ynghia": "Các dạng dùng cho **trích dẫn gián tiếp** như ‘-(느)ㄴ다고/다고 해요’, ‘-느냐고/(으)냐고 해요’, ‘-(으)라고 해요’, ‘-자고 해요’ có thể **rút gọn trong ngôn ngữ nói** thành ‘-(느)ㄴ대요/대요’, ‘-느냬요/(으)냬요’, ‘-(으)래요’, ‘-재요’.",
+  "vidu": [
+    {
+      "cau": "유수프 씨는 구내식당에서 점심을 먹는대요.",
+      "nghia": "Nghe nói anh Yusuf ăn trưa ở nhà ăn công ty."
+    },
+    {
+      "cau": "다라 씨가 주말에 바쁘냬요.",
+      "nghia": "Nghe nói anh Dara cuối tuần bận."
+    },
+    {
+      "cau": "아궁 씨가 작업장을 청소하래요.",
+      "nghia": "Nghe nói anh Agung bảo dọn xưởng."
+    },
+    {
+      "cau": "프엉 씨가 창고에 같이 가재요.",
+      "nghia": "Nghe nói anh Phương bảo đi cùng anh ấy đến kho."
+    }
+  ],
+  "luat": "Trong **trích dẫn gián tiếp** (giữ nguyên thì và ngôi), các dạng ‘-(느)ㄴ다고/다고 해요’, ‘-느냐고/(으)냐고 해요’, ‘-(으)라고 해요’, ‘-자고 해요’ có thể rút gọn thành ‘-(느)ㄴ대요/대요’, ‘-느냬요/(으)냬요’, ‘-(으)래요’, ‘-재요’ khi nói chuyện."
+}]

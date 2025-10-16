@@ -1,0 +1,58 @@
+[
+  {
+    "title": {
+      "korean": "표준근로계약서",
+      "vietnamese": "Hợp đồng lao động chuẩn"
+    },
+    "data": [
+      {
+        "korean": "표준근로계약서는 한국에서 고용허가제로 일하는 외국인 근로자와 고용주 모두의 권익을 보호하기 위한 법적 계약서입니다.",
+        "vietnamese": "Hợp đồng lao động chuẩn là hợp đồng lao động theo pháp luật dùng để bảo vệ quyền lợi của cả người tuyển dụng lẫn người lao động nước ngoài đang làm việc ở Hàn Quốc theo chương trình cấp phép lao động."
+      },
+      {
+        "korean": "근로 계약 기간, 근로 장소, 업무 내용, 근로 및 휴게 시간, 휴일, 임금, 숙식 제공 여부 등의 근로 조건이 포함됩니다.",
+        "vietnamese": "Trong hợp đồng sẽ có thông tin về điều kiện làm việc như thời hạn hợp đồng, địa điểm làm việc, nội dung công việc, thời gian làm việc và nghỉ giải lao, ngày nghỉ, tiền lương và việc có được cung cấp chỗ ăn ở hay không."
+      },
+      {
+        "korean": "근로 계약 기간은 개월 수로 나타내며, 수습 기간 적용 여부도 표시해야 합니다.",
+        "vietnamese": "Thời hạn của hợp đồng lao động được thể hiện bằng số tháng và phải ghi rõ có áp dụng thời gian học việc hay không."
+      },
+      {
+        "korean": "1일 근로 시간, 시간 외 근로 시간, 휴게 시간, 휴일, 임금 지급 여부 등을 명시합니다.",
+        "vietnamese": "Phải ghi rõ thời gian làm việc mỗi ngày, thời gian làm thêm trung bình, thời gian nghỉ ngơi, ngày nghỉ và việc có trả lương vào ngày nghỉ hay không."
+      },
+      {
+        "korean": "임금은 기본급, 고정 수당, 상여금 등 세부 내역과 지급 방법을 기재해야 합니다.",
+        "vietnamese": "Tiền lương phải bao gồm lương cơ bản, trợ cấp cố định, tiền thưởng và phải ghi rõ phương thức chi trả."
+      },
+      {
+        "korean": "숙식 제공 여부도 중요하며, 숙소 유형과 부담액, 식사 제공 여부 및 비용을 기록합니다.",
+        "vietnamese": "Nội dung về việc cung cấp chỗ ở và bữa ăn cũng quan trọng: cần ghi rõ loại hình chỗ ở, chi phí mà người lao động chi trả, cũng như việc có được cung cấp bữa sáng, trưa, tối và chi phí tương ứng."
+      },
+      {
+        "korean": "사용자와 근로자는 계약일을 적고 서명합니다.",
+        "vietnamese": "Người sử dụng lao động và người lao động sẽ ghi ngày ký kết và ký tên vào hợp đồng."
+      }
+    ],
+    "voca": {
+      "추가": "Thêm vào",
+      "익숙해지다": "Trở nên quen thuộc",
+      "권익": "Quyền lợi, quyền ích",
+      "법적": "Tính pháp lý",
+      "명시하다": "Ghi rõ, biểu thị rõ",
+      "평균": "Trung bình",
+      "구체적": "Cụ thể",
+      "휴무일": "Ngày nghỉ làm",
+      "세부 내역": "Nội dung chi tiết",
+      "기재": "Ghi chép, điền vào",
+      "사항": "Điều khoản, thông tin",
+      "숙박": "Cư trú, chỗ ở",
+      "조식": "Bữa sáng",
+      "중식": "Bữa trưa",
+      "석식": "Bữa tối",
+      "적응하다": "Thích ứng",
+      "통상": "Thông thường",
+      "법정 근로 시간": "Thời gian làm việc theo luật"
+    }
+  }
+]
